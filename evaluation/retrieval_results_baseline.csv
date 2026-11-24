@@ -1,0 +1,691 @@
+question_id,question,expected_category,expected_evidence,retrieved_count,retrieved_titles,retrieved_sections,retrieved_scores,retrieved_texts,manual_relevance_labels,notes
+Q1,What does the Constitution say about being prosecuted and punished for the same offence more than once?,answerable_to_check,Constitutional provision concerning prosecution and punishment for the same offence more than once,5,"1. The plantations labour act, 1951
+2. The Wildlife (Protection) Act, 1972
+3. The andaman and nicobar islands excise regulati0n, 2012
+4. The andaman and nicobar islands excise regulati0n, 2012
+5. The Motor Vehicle Act, 1939","1. 36
+2. 58A
+3. 59
+4. 58
+5. 20","1. 0.4261
+2. 0.4006
+3. 0.3990
+4. 0.3923
+5. 0.3880","RESULT 1: Act: The plantations labour act, 1951 (Act 69 of 1951) | India | State | In Force
+Chapter VII: ## PENALTIES AND PROCEDURE | Section 36: Other offences**
+
+**36. Other offences** .—Whoever contravenes any of the provisions of this Act or of any rules made thereunder for which no other penalty is elsewhere provided by or under this Act shall be punishable with imprisonment for a term which may extend to[1] [six months, or with fine which may extend to ten thousand rupees, or with both].
+
+RESULT 2: Act: The Wildlife (Protection) Act, 1972 (Act 53 of 1972) | India | State | In Force
+Chapter VI: A** | Section 58A: The provisions of this Chapter shall apply only to the following persons, namely:
+
+## **CHAPTER VI A**
+
+## **FORFEITURE OF PROPERTY DERIVED FROM ILLEGAL HUNTING AND TRADE**
+
+## **Application**
+
+58A. The provisions of this Chapter shall apply only to the following persons, namely:
+
+_(a)_ every person who has been convicted of an offence punishable under this Act with imprisonment for a term of three years or more;
+
+_(b)_ every associate of a person referred to in clause _(a)_ ;
+
+_(c)_ any holder (hereafter in this clause referred to as the present holder) of any property which was at any time previously held by a person referred to in clause _(a)_ or clause _(b)_ unless the present holder or, as the case may be, any one who held such property after such person and before the present holder, is or was a transferee in good faith for adequate consideration.
+
+## **Definition**
+
+RESULT 3: Act: The andaman and nicobar islands excise regulati0n, 2012 (Act 3 of 2012) | India | State | In Force
+Chapter IV: ## ExCISE REVENUE | Section 59: (1) If the person committing an offence under this Regulation is a company, the company as well as e
+
+59. (1) If the person committing an offence under this Regulation is a company, the company as well as every person who at the time the offence is committed was in charge of, and responsible to, the company for the conduc~o!)ts business at the time of the commission of the offence, shall be deemed to be guilty of an offence, and shall be liable to be proceeded against and punished accordingly:
+
+**==> picture [13 x 14] intentionally omitted <==**
+
+Penalty for attempt to **commit an** offence under this Regulation. Penalty for making vexatious search. seizure, detention or arrest.
+
+Penalty for refusing to perform or withdraw from duty.
+
+Penalty for offence! not otherwise provided for.
+
+Presumption as to commission of offence in certain cases.
+
+Enhanced punishment after previous conviction.
+
+Power of court to implead manufacturer. etc.
+
+Commission of offence by companies.
+
+.: .. '
+
+[PARTfi-
+
+THE GAZETTE OF INDIA EXTRAORDINARY
+
+Procedure fc r launching prosecution n the case of major offences.
+
+'roccdurc for idjudication
+
+:n case of .
+
+offences.
+
+-' .. ,.~'"" .
+
+~ ..
+
+0._ I"" '
+
+Provided that where a company has ~ifJ~~.ent establishments or branch, the concerned Chief Executive and the person in-charge of such establishment, branch or unit nominated by the company as responsible for the conduct of business shall be liable for contravention in respect of such establishment, branch or unit: ).
+
+RESULT 4: Act: The andaman and nicobar islands excise regulati0n, 2012 (Act 3 of 2012) | India | State | In Force
+Chapter IV: ## ExCISE REVENUE | Section 58: Where at any time during the trial of any offence under this Regulation alleged to have been committ
+
+58. Where at any time during the trial of any offence under this Regulation alleged to have been committed by any person, not being the manufacturer, distributor or dealer of any liquor, the court is sati~, on the evidence adduced before it, that such manufacturer, distributor or dealer is alSo concerned with that offence, then, the court may, notwithstanding anything contained in sUb::section (3) ofsecti~n 319 of the Code of Criminal Procedure, 1973 proceed against him under any section of this Chapter ..
+
+RESULT 5: Act: The Motor Vehicle Act, 1939 (Act 4 of 1939) | India | State | In Force
+Chapter II: ** | Section 20(2): Power of Court to disqualify.** - (1) Where a person is convicted of an offence under this Act or of
+
+(2) Where a person is convicted of an offence under clause (c) of sub section (1) of section 132, section 134 or section 185, the Court convicting any person of any such offence shall order the disqualification under sub section (I) and if the offence is relatable to clause (c) of sub-section (1) of section 132 or section 134, such disqualification shall be for a period of not less than one month, and if the offence is relatable to section 185, such disqualification shall be for a period of not less than six months.",,
+Q2,What does the Constitution say about laws that were in force before it commenced?,answerable_to_check,Constitutional provision concerning laws in force before commencement,5,"1. The Motor Vehicle Act, 1939
+2. The Motor Vehicle Act, 1939
+3. The contract labour (regulation and abolition) act, 1970
+4. The Motor Vehicle Act, 1939
+5. The Motor Vehicle Act, 1939","1. 212
+2. 212
+3. 18
+4. 110
+5. 144","1. 0.4244
+2. 0.4113
+3. 0.4024
+4. 0.3480
+5. 0.3437","RESULT 1: Act: The Motor Vehicle Act, 1939 (Act 4 of 1939) | India | State | In Force
+Chapter XIV: ** | Section 212(3): Publication, commencement and laying of rules and notifications.** - (1) The power to make rules under this Act is subject to the condition of the rules being made after previous publication
+
+(3) Every rule made by any State Government shall be laid, as soon as may be after it is made, before the State Legislature.
+
+RESULT 2: Act: The Motor Vehicle Act, 1939 (Act 4 of 1939) | India | State | In Force
+Chapter XIV: ** | Section 212: Publication, commencement and laying of rules and notifications.** - (1) The power to make rules under this Act is subject to the condition of the rules being made after previous publication
+
+**212. Publication, commencement and laying of rules and notifications.** - (1) The power to make rules under this Act is subject to the condition of the rules being made after previous publication.
+
+RESULT 3: Act: The contract labour (regulation and abolition) act, 1970 (Act 37 of 1970) | India | State | In Force
+Chapter V: ** | Section 18(3): Other facilities
+
+(3) Every rule made by the Central Government under this Act shall be laid as soon as may be after it is made, before each House of Parliament while it is in session for a total period of thirty days which may be comprised in one session or in two successive sessions, and if before the expiry of the session in which it is so laid or the session immediately following, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.
+
+RESULT 4: Act: The Motor Vehicle Act, 1939 (Act 4 of 1939) | India | State | In Force
+Chapter VII: ** | Section 110(2): Power of Central Government to make rules.** - (1) The Central Government may make rules regulating
+
+(2) Rules may be made under sub-section (1) governing the matters mentioned therein, including the manner of ensuring the compliance with such matters and the maintenance of motor vehicles in respect of such matters, either
+
+generally in respect of motor vehicles or trailers or in respect of motor vehicles or trailers of a particular class or in particular circumstances.
+
+RESULT 5: Act: The Motor Vehicle Act, 1939 (Act 4 of 1939) | India | State | In Force
+Chapter X: ** | Section 144: Overriding effect.** - The provisions of this Chapter shall have effect notwithstanding anything contained in any other provision of this Act or of any other law for the time being in force
+
+**144. Overriding effect.** - The provisions of this Chapter shall have effect notwithstanding anything contained in any other provision of this Act or of any other law for the time being in force.
+
+_**Corresponding Law.**_ - Section 144 corresponds to section 92 - E of the Motor Vehicles Act, 1939.
+
+_**Objects and Reasons.**_ - Clause 144 provides for overriding effect of this Chapter over any other provisions of this Act or any law for the time being in force.",,
+Q3,What does the Motor Vehicles Act say about the validity of a learner's licence throughout India?,answerable_to_check,Provision concerning validity of learner's licence throughout India,5,"1. The Motor Vehicle Act, 1939
+2. The Motor Vehicle Act, 1939
+3. The Motor Vehicle Act, 1939
+4. The Motor Vehicle Act, 1939
+5. The Motor Vehicle Act, 1939","1. 12
+2. 26
+3. 19
+4. 25
+5. 41","1. 0.8322
+2. 0.6433
+3. 0.6301
+4. 0.6079
+5. 0.5895","RESULT 1: Act: The Motor Vehicle Act, 1939 (Act 4 of 1939) | India | State | In Force
+Chapter II: ** | Section 12(4): Licensing and regulation of schools or establishments for imparting instruction in driving of motor
+
+learner's licence or a driving licence issued under this Act shall be effective throughout India.
+
+_**Corresponding Law.**_ - Section 13 corresponds to section 9(1) of the Motor Vehicles Act, 1939.
+
+_**Objects and Reasons.**_ - Clause 13 specified the extent of validity of a learner's licence and a driving licence. The licences are to be valid throughout India.
+
+RESULT 2: Act: The Motor Vehicle Act, 1939 (Act 4 of 1939) | India | State | In Force
+Chapter II: ** | Section 26: Maintenance of State Registers of Driving Licences.** - (1) Each State Government shall maintain, in
+
+**26. Maintenance of State Registers of Driving Licences.** - (1) Each State Government shall maintain, in such form as may be prescribed by the Central Government, a register to be known as the State Register of Driving Licences, in respect of driving llicences issued and renewed by the licensing authorities of the State Government, containing the following particulars, namely :-
+
+- (a) names and addresses of holders of driving licences ;
+
+- (b) licence numbers ;
+
+- (c) dates of issue or renewal of licences ;
+
+- (d) dates of expiry of licences ;
+
+- (e) classes and types of vehicles authorised to be driven ; and
+
+(f) such other particulars as the Central government may prescribe.
+
+RESULT 3: Act: The Motor Vehicle Act, 1939 (Act 4 of 1939) | India | State | In Force
+Chapter II: ** | Section 19(3): Power of licensing authority to disqualify from holding a driving licence or revoke such licence .**
+
+(3) Any person aggrieved by an order made by a licensing authority under sub-section (1) may, within thirty days of the receipt of the order, appeal to the prescribed authority, and such appellate authority shall give notice to the licensing authority and hear either party if so required by that party and may pass such order as it thinks fit and an order passed by any such appellate authority shall be final.
+
+_**Corresponding Law.**_ - Section 19 corresponds to section 15 of the Motor Vehicles Act, 1939.
+
+_**Objects and Reasons.**_ - Clause19 contains provisions for the disqualification of the holder of the licence, by the licensing authorities, for holding or obtaining the licence for a specified period or for revoking the licence for the reasons enumerated in this clause. It also makes provision for appeal against the orders of the licensing authorities to the prescribed authorities.
+
+RESULT 4: Act: The Motor Vehicle Act, 1939 (Act 4 of 1939) | India | State | In Force
+Chapter II: ** | Section 25(3): Transfer of endorsement and issue of driving licence free from endorsement.** - (1) An endorsement o
+
+(3) A person whose driving licence has been endorsed shall, if during a continuous period of three years after such endorsement no further endorsement has been made against him, be entitled on surrendering his driving licence and on payment of a fee of five rupees, to receive a new driving licence free from all endorsements :
+
+Provided that if the endorsement is only in respect of an offence contravening the speed limits referred to in section 112, such person shall be entitled to receive a new driving licence free from such endorsements on the expiration of one year of the date of the endorsement :
+
+Provided further that in reckoning the said period of three years and one year, respectively, and period during which the said person was disqualified for holding or obtaining a driving licence shall be excluded.
+
+_**Corresponding Law.**_ - Section 25 corresponds to section 20 of the Motor Vehicles Act, 1939.
+
+_**Objects and Reasons.**_ - Clause 25 enables the licensing authorities to transfer the endorsements of disqualification to any new or duplicate licences issued to the holder of the licence. It also provides for the issue of fresh driving licence free of endorsements, if during a continuous period of three years from the last endorsement, there has been no further orders of endorsement.
+
+RESULT 5: Act: The Motor Vehicle Act, 1939 (Act 4 of 1939) | India | State | In Force
+Chapter II: ** | Section 41(7): Registration, how to be made.** - (1) An application by or on behalf of the owner of a motor vehicle
+
+(7) A certificate of registration issued under sub-section (3), whether before or after the commencement of this Act, in respect of a motor vehicle, other than a transport vehicle, shall, subject to the provisions contained in this Act, be valid only for a period of fifteen years from the date of issue of such certificate and shall be renewable.",,
+Q4,What does the Motor Vehicles Act say about driving schools or establishments that provide driving instruction?,answerable_to_check,Provision concerning licensing or regulation of driving schools,5,"1. The Motor Vehicle Act, 1939
+2. The Motor Vehicle Act, 1939
+3. The Motor Vehicle Act, 1939
+4. The Motor Vehicle Act, 1939
+5. The Motor Vehicle Act, 1939","1. 12
+2. 215
+3. 48
+4. 26
+5. 96","1. 0.6012
+2. 0.5081
+3. 0.4974
+4. 0.4955
+5. 0.4886","RESULT 1: Act: The Motor Vehicle Act, 1939 (Act 4 of 1939) | India | State | In Force
+Chapter II: ** | Section 12(4): Licensing and regulation of schools or establishments for imparting instruction in driving of motor
+
+learner's licence or a driving licence issued under this Act shall be effective throughout India.
+
+_**Corresponding Law.**_ - Section 13 corresponds to section 9(1) of the Motor Vehicles Act, 1939.
+
+_**Objects and Reasons.**_ - Clause 13 specified the extent of validity of a learner's licence and a driving licence. The licences are to be valid throughout India.
+
+RESULT 2: Act: The Motor Vehicle Act, 1939 (Act 4 of 1939) | India | State | In Force
+Chapter XIV: ** | Section 215(4): Road Safety Councils and Committees.** - (1) The Central Government may, by notification in the Offi
+
+(4) The Councils and Committees referred to in this section shall discharge such functions relating to the road safety programmes as the Central Government or the State Government, as the case may be, may, having regard to the objects of the Act, specify.
+
+_**Corresponding Law.**_ - This is a new provisions in the 1988 Act.
+
+_**Objects and Reasons.**_ - Clause 216 seeks to empower the Central Government to constitute a National Road Safety Council and the State Government to constitute a State Safety Council for the State and District Road Safety Committee for the districts consisting of a Chairman and such other members as that Government consider necessary on such terms and conditions as that Government may determine.
+
+RESULT 3: Act: The Motor Vehicle Act, 1939 (Act 4 of 1939) | India | State | In Force
+Chapter II: ** | Section 48(4): No objection certificate.** - (1) The owner of a motor vehicle when applying for the assignment of a
+
+(4) Where within a period of thirty days referred to in sub-section (3), the registering authority does not refuse to grant the no objection certificate or does not communicate the refusal to the applicant, the registering authority shall be deemed to have granted the no objection certificate.
+
+RESULT 4: Act: The Motor Vehicle Act, 1939 (Act 4 of 1939) | India | State | In Force
+Chapter II: ** | Section 26: Maintenance of State Registers of Driving Licences.** - (1) Each State Government shall maintain, in
+
+**26. Maintenance of State Registers of Driving Licences.** - (1) Each State Government shall maintain, in such form as may be prescribed by the Central Government, a register to be known as the State Register of Driving Licences, in respect of driving llicences issued and renewed by the licensing authorities of the State Government, containing the following particulars, namely :-
+
+- (a) names and addresses of holders of driving licences ;
+
+- (b) licence numbers ;
+
+- (c) dates of issue or renewal of licences ;
+
+- (d) dates of expiry of licences ;
+
+- (e) classes and types of vehicles authorised to be driven ; and
+
+(f) such other particulars as the Central government may prescribe.
+
+RESULT 5: Act: The Motor Vehicle Act, 1939 (Act 4 of 1939) | India | State | In Force
+Chapter II: ** | Section 96: Power of State Government to make rules for the purposes of this**
+
+**Chapter
+
+*S. 5 of the T.N. Motor Vehicles ( Special Provisions ) Act, 1992 provides that the provisions of Ss. 3, 4 and 6 of the 1992 Act shall have effect notwithstanding anything inconsistent therewith contained in Chaps. V and VI including S. 98 of the Motor Vehicles Act, 1998.",,
+Q5,What is the law for students in India?,corpus_coverage_to_check,"Student-related laws, rights, or regulations, if present in the corpus",5,"1. The rights of persons with disabilities act, 2016
+2. The Air ( Prevention and Control of Pollution) Act, 1981
+3. The Motor Vehicle Act, 1939
+4. The andaman and nicobar islands excise regulati0n, 2012
+5. The rights of persons with disabilities act, 2016","1. 31
+2. 39D
+3. 12
+4. 14
+5. 1","1. 0.5366
+2. 0.4934
+3. 0.4896
+4. 0.4854
+5. 0.4730","RESULT 1: Act: The rights of persons with disabilities act, 2016 (Act 49 of 2016) | India | State | In Force
+Chapter VI: SPECIAL PROVISIONS FOR PERSONS WITH BENCHMARK DISABILITES | Section 31: Free education for children with benchmark disabilities.** —( _1_ ) Notwithstanding anything contain
+
+## CHAPTER VI
+
+SPECIAL PROVISIONS FOR PERSONS WITH BENCHMARK DISABILITES
+
+**31. Free education for children with benchmark disabilities.** —( _1_ ) Notwithstanding anything contained in the Rights of Children to Free and Compulsory Education Act, 2009 (35 of 2009), every child with benchmark disability between the age of six to eighteen years shall have the right to free education in a neighbourhood school, or in a special school, of his choice.
+
+( _2_ ) The appropriate Government and local authorities shall ensure that every child with benchmark disability has access to free education in an appropriate environment till he attains the age of eighteen years.
+
+RESULT 2: Act: The Air ( Prevention and Control of Pollution) Act, 1981 (Act 14 of 1981) | India | State | In Force
+Chapter VI: PENALTIES AND PROCEDURE | Section 39D: Offences for failure to comply with provisions of section 21 and for failure to pay penalty.** —( _1
+
+( _4_ ) Where any offence under sub-section ( _1_ ) or sub-section ( _2_ ) or sub-section ( _3_ ) has been committed by a company, every person who, at the time the offence was committed, was directly in charge of, and was responsible to, the company for the conduct of the business of the company, as well as the company, shall be deemed to be guilty of such offence and he shall be liable to be proceeded against and punished accordingly:
+
+Provided that nothing contained in this sub-section shall render any such person liable to any punishment provided in sub-section ( _1_ ) or sub-section ( _2_ ) or sub-section ( _3_ ), if he proves that the offence was committed without his knowledge or that he exercised all due diligence to prevent the commission of such offence.
+
+( _5_ ) Notwithstanding anything contained in sub-section ( _4_ ), where an offence has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or is attributable to any neglect on the part of, any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+_Explanation.—_ For the purposes of this section,—
+
+( _a_ ) ""company"" includes body corporate, firm, trust, society and any other association of individuals;
+
+RESULT 3: Act: The Motor Vehicle Act, 1939 (Act 4 of 1939) | India | State | In Force
+Chapter II: ** | Section 12(4): Licensing and regulation of schools or establishments for imparting instruction in driving of motor
+
+learner's licence or a driving licence issued under this Act shall be effective throughout India.
+
+_**Corresponding Law.**_ - Section 13 corresponds to section 9(1) of the Motor Vehicles Act, 1939.
+
+_**Objects and Reasons.**_ - Clause 13 specified the extent of validity of a learner's licence and a driving licence. The licences are to be valid throughout India.
+
+RESULT 4: Act: The andaman and nicobar islands excise regulati0n, 2012 (Act 3 of 2012) | India | State | In Force
+Chapter I: ' | Section 14: _(I)_ While considering an application for grant of a licence or permit, the authorised officer shall ensure that the applicant-
+
+14. _(I)_ While considering an application for grant of a licence or permit, the authorised officer shall ensure that the applicant-
+
+- _(a)_ is a citizen of India;
+
+_(b)_ is above eighteen years of age;
+
+_(c)_ is not a defaulter, or blackl,i~ted or debarred from holding an excise licence;
+
+_"" (d)_ submits an affidavit as a proof for the following, namely:-
+
+, '
+
+(I) that he possesses-or has an arrangement for taking on rent a suitable premises for conducting the business and the said premises is located more than fifty meters away from anymedical institution, educational institution. religious institution, women hostel, orphanage, hospital, primary health centre or community health centre; ,
+
+_(il)_ that the premises have not been constructed in violation of any Jaw;
+
+(iii) that be possesses a good moral character and has no criminal background nor has been convicted of any offence punishable under this Regulation or any other law, for the time being in force;
+
+(iv) that he shall not employ any salesman or worker or representative who has criminal background or suffers from any infectious or contagious diseases or is below eighteen years of age;
+
+_(v)_ that he does not owe any public dues or dues to the Administration;
+
+_(vi)_ that he is solvent and has the necessary funds or has made arrangements for the necessary funds, for conducting the' business:
+
+Provided that the,~qetails of such funds shall be made available to the authorised o ffi cer I 'f so requITe ' d ,' _r_ t. .
+
+RESULT 5: Act: The rights of persons with disabilities act, 2016 (Act 49 of 2016) | India | State | In Force
+Chapter I: PRELIMINARY | Section 1: 19th April, 2017, _vide_ notification no. S.O. 1215 (E) dated 19th April, 2017, _see_ Gazette of India, Extraordinary, Part II, Section 3 (ii)
+
+( _v_ ) ""private establishment"" means a company, firm, cooperative or other society, associations, trust, agency, institution, organisation, union, factory or such other establishment as the appropriate Government may, by notification, specify;
+
+( _w_ ) ""public building"" means a Government or private building, used or accessed by the public at large, including a building used for educational or vocational purposes, workplace, commercial activities, public utilities, religious, cultural, leisure or recreational activities, medical or health services, law enforcement agencies, reformatories or judicial foras, railway stations or platforms, roadways bus stands or terminus, airports or waterways;
+
+( _x_ ) ""public facilities and services"" includes all forms of delivery of services to the public at large, including housing, educational and vocational trainings, employment and career advancement, shopping or marketing, religious, cultural, leisure or recreational, medical, health and rehabilitation, banking, finance and insurance, communication, postal and information, access to justice, public utilities, transportation;
+
+( _y_ ) ""reasonable accommodation"" means necessary and appropriate modification and adjustments, without imposing a disproportionate or undue burden in a particular case, to ensure to persons with disabilities the enjoyment or exercise of rights equally with others;",,
+Q6,What are the legal rights of students at universities?,corpus_coverage_to_check,"Legal provisions about university students' rights, if present",5,"1. The rights of persons with disabilities act, 2016
+2. The rights of persons with disabilities act, 2016
+3. The Prison Act, 1894
+4. The Prison Act, 1894
+5. The andaman and nicobar islands excise regulati0n, 2012","1. 31
+2. 44
+3. 45
+4. 31
+5. 14","1. 0.3816
+2. 0.3211
+3. 0.2943
+4. 0.2898
+5. 0.2886","RESULT 1: Act: The rights of persons with disabilities act, 2016 (Act 49 of 2016) | India | State | In Force
+Chapter VI: SPECIAL PROVISIONS FOR PERSONS WITH BENCHMARK DISABILITES | Section 31: Free education for children with benchmark disabilities.** —( _1_ ) Notwithstanding anything contain
+
+## CHAPTER VI
+
+SPECIAL PROVISIONS FOR PERSONS WITH BENCHMARK DISABILITES
+
+**31. Free education for children with benchmark disabilities.** —( _1_ ) Notwithstanding anything contained in the Rights of Children to Free and Compulsory Education Act, 2009 (35 of 2009), every child with benchmark disability between the age of six to eighteen years shall have the right to free education in a neighbourhood school, or in a special school, of his choice.
+
+( _2_ ) The appropriate Government and local authorities shall ensure that every child with benchmark disability has access to free education in an appropriate environment till he attains the age of eighteen years.
+
+RESULT 2: Act: The rights of persons with disabilities act, 2016 (Act 49 of 2016) | India | State | In Force
+Chapter VIII: DUTIES AND RESPONSIBILITIES OF APPROPRIATE GOVERNMENTS | Section 44: Mandatory observance of accessibility norms.** —( _1_ ) No establishment shall be granted permission
+
+**44. Mandatory observance of accessibility norms.** —( _1_ ) No establishment shall be granted permission to build any structure if the building plan does not adhere to the rules formulated by the Central Government under section 40.
+
+( _2_ ) No establishment shall be issued a certificate of completion or allowed to take occupation of a building unless it has adhered to the rules formulated by the Central Government.
+
+RESULT 3: Act: The Prison Act, 1894 (Act 9 of 1894) | India | State | In Force
+Chapter XI: ** | Section 45(5): Prison-offences
+
+(5) wilfully disabling himself from labour ;
+
+RESULT 4: Act: The Prison Act, 1894 (Act 9 of 1894) | India | State | In Force
+Chapter VI: FOOD, CLOTHING AND BEDDING OF CIVIL AND UNCONVICTED CRIMINAL PRISONERS** | Section 31: Maintenance of certain prisoners from private sources
+
+## **CHAPTER VI FOOD, CLOTHING AND BEDDING OF CIVIL AND UNCONVICTED CRIMINAL PRISONERS**
+
+**31. Maintenance of certain prisoners from private sources.—** A civil prisoner or an unconvicted criminal prisoner shall be permitted to maintain himself, and to purchase, or receive from private sources at proper hours, food, clothing, bedding or other necessaries, but subject to examination and to such rules as may be approved by the Inspector General.
+
+RESULT 5: Act: The andaman and nicobar islands excise regulati0n, 2012 (Act 3 of 2012) | India | State | In Force
+Chapter I: ' | Section 14: _(I)_ While considering an application for grant of a licence or permit, the authorised officer shall ensure that the applicant-
+
+14. _(I)_ While considering an application for grant of a licence or permit, the authorised officer shall ensure that the applicant-
+
+- _(a)_ is a citizen of India;
+
+_(b)_ is above eighteen years of age;
+
+_(c)_ is not a defaulter, or blackl,i~ted or debarred from holding an excise licence;
+
+_"" (d)_ submits an affidavit as a proof for the following, namely:-
+
+, '
+
+(I) that he possesses-or has an arrangement for taking on rent a suitable premises for conducting the business and the said premises is located more than fifty meters away from anymedical institution, educational institution. religious institution, women hostel, orphanage, hospital, primary health centre or community health centre; ,
+
+_(il)_ that the premises have not been constructed in violation of any Jaw;
+
+(iii) that be possesses a good moral character and has no criminal background nor has been convicted of any offence punishable under this Regulation or any other law, for the time being in force;
+
+(iv) that he shall not employ any salesman or worker or representative who has criminal background or suffers from any infectious or contagious diseases or is below eighteen years of age;
+
+_(v)_ that he does not owe any public dues or dues to the Administration;
+
+_(vi)_ that he is solvent and has the necessary funds or has made arrangements for the necessary funds, for conducting the' business:
+
+Provided that the,~qetails of such funds shall be made available to the authorised o ffi cer I 'f so requITe ' d ,' _r_ t. .",,
+Q7,Can a student be fined for breaking a school rule?,corpus_coverage_to_check,"Legal provisions addressing fines for school-rule violations, if present",5,"1. The rights of persons with disabilities act, 2016
+2. The Air ( Prevention and Control of Pollution) Act, 1981
+3. The inland vessels act, 1917
+4. The Motor Vehicle Act, 1939
+5. The andaman and nicobar islands excise regulati0n, 2012","1. 31
+2. 39D
+3. 63B
+4. 178
+5. 52","1. 0.3891
+2. 0.3865
+3. 0.3516
+4. 0.3457
+5. 0.3453","RESULT 1: Act: The rights of persons with disabilities act, 2016 (Act 49 of 2016) | India | State | In Force
+Chapter VI: SPECIAL PROVISIONS FOR PERSONS WITH BENCHMARK DISABILITES | Section 31: Free education for children with benchmark disabilities.** —( _1_ ) Notwithstanding anything contain
+
+## CHAPTER VI
+
+SPECIAL PROVISIONS FOR PERSONS WITH BENCHMARK DISABILITES
+
+**31. Free education for children with benchmark disabilities.** —( _1_ ) Notwithstanding anything contained in the Rights of Children to Free and Compulsory Education Act, 2009 (35 of 2009), every child with benchmark disability between the age of six to eighteen years shall have the right to free education in a neighbourhood school, or in a special school, of his choice.
+
+( _2_ ) The appropriate Government and local authorities shall ensure that every child with benchmark disability has access to free education in an appropriate environment till he attains the age of eighteen years.
+
+RESULT 2: Act: The Air ( Prevention and Control of Pollution) Act, 1981 (Act 14 of 1981) | India | State | In Force
+Chapter VI: PENALTIES AND PROCEDURE | Section 39D: Offences for failure to comply with provisions of section 21 and for failure to pay penalty.** —( _1
+
+( _4_ ) Where any offence under sub-section ( _1_ ) or sub-section ( _2_ ) or sub-section ( _3_ ) has been committed by a company, every person who, at the time the offence was committed, was directly in charge of, and was responsible to, the company for the conduct of the business of the company, as well as the company, shall be deemed to be guilty of such offence and he shall be liable to be proceeded against and punished accordingly:
+
+Provided that nothing contained in this sub-section shall render any such person liable to any punishment provided in sub-section ( _1_ ) or sub-section ( _2_ ) or sub-section ( _3_ ), if he proves that the offence was committed without his knowledge or that he exercised all due diligence to prevent the commission of such offence.
+
+( _5_ ) Notwithstanding anything contained in sub-section ( _4_ ), where an offence has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or is attributable to any neglect on the part of, any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+_Explanation.—_ For the purposes of this section,—
+
+( _a_ ) ""company"" includes body corporate, firm, trust, society and any other association of individuals;
+
+RESULT 3: Act: The inland vessels act, 1917 (Act 1 of 1917) | India | State | In Force
+Chapter VII: PENALTIES AND LEGAL PROCEEDINGS | Section 63B: General offences against discipline
+
+( _e_ ) if he combines with any of the officers to disobey to lawful commands or to neglect duty or to impede the navigation of the vessel or retard the progress of the voyage, he shall be liable to imprisonment for a term which may extend to three months or with fine which may extend to five hundred rupees, or with both;
+
+> 1. Subs. by Act 35 of 1977, s. 5, for ""steam-vessel"" (w.e.f. 1-5-1978).
+
+> 2. Ins. by s. 30, _ibid._ (w.e.f. 1-5-1978).
+
+( _f_ ) if he wilfully damages his mechanically propelled vessel or commits criminal misappropriation or breach of trust in respect of or wilful damages to any of her stores or cargo, he shall be liable to forfeit out of his wages a sum equal to the loss sustained and also imprisonment which may extend to three months.
+
+RESULT 4: Act: The Motor Vehicle Act, 1939 (Act 4 of 1939) | India | State | In Force
+Chapter XIII: ** | Section 178(3): Penalty for travelling without pass or ticket and for dereliction of duty on the part of conductor a
+
+(3) If the holder of a permit or the driver of a contract carriage refuses, in contravention of the provisions of this Act or rules made thereunder, to ply the contract carriage or to carry the passengers, he shall, - (a) in the case of two-wheeled or three-wheeled motor vehicles, be punishable with fine which may extend to fifty rupees; and
+
+(b) in any other case, be punishable with fine which may extend to two hundred rupees.
+
+_**Corresponding Law.**_ - Section 178 corresponds to section 112 - A of the Motor Vehicles Act, 1939.
+
+_**Objects and Reasons.**_ - Clause 178 provides for penalty for travelling without ticket or pass by a passenger and also for penalty for the conductor and operator of a contract carriage permit for dereliction of his duties.
+
+RESULT 5: Act: The andaman and nicobar islands excise regulati0n, 2012 (Act 3 of 2012) | India | State | In Force
+Chapter IV: ## ExCISE REVENUE | Section 52: Whoever, attempts to commit any offence punishable under this Regulation, shall be liable for half the punishment provided for the offence under this Regulation
+
+52. Whoever, attempts to commit any offence punishable under this Regulation, shall be liable for half the punishment provided for the offence under this Regulation.",,
+Q8,What are the legal consequences of cheating in an examination?,corpus_coverage_to_check,"Legal provisions concerning examination cheating, if present",5,"1. The andaman and nicobar islands excise regulati0n, 2012
+2. The andaman and nicobar islands excise regulati0n, 2012
+3. The Motor Vehicle Act, 1939
+4. The motor transport workers act, 1961
+5. The Motor Vehicle Act, 1939","1. 58
+2. 59
+3. 19
+4. 35
+5. 23","1. 0.3593
+2. 0.3568
+3. 0.3545
+4. 0.3390
+5. 0.3307","RESULT 1: Act: The andaman and nicobar islands excise regulati0n, 2012 (Act 3 of 2012) | India | State | In Force
+Chapter IV: ## ExCISE REVENUE | Section 58: Where at any time during the trial of any offence under this Regulation alleged to have been committ
+
+58. Where at any time during the trial of any offence under this Regulation alleged to have been committed by any person, not being the manufacturer, distributor or dealer of any liquor, the court is sati~, on the evidence adduced before it, that such manufacturer, distributor or dealer is alSo concerned with that offence, then, the court may, notwithstanding anything contained in sUb::section (3) ofsecti~n 319 of the Code of Criminal Procedure, 1973 proceed against him under any section of this Chapter ..
+
+RESULT 2: Act: The andaman and nicobar islands excise regulati0n, 2012 (Act 3 of 2012) | India | State | In Force
+Chapter IV: ## ExCISE REVENUE | Section 59: (1) If the person committing an offence under this Regulation is a company, the company as well as e
+
+59. (1) If the person committing an offence under this Regulation is a company, the company as well as every person who at the time the offence is committed was in charge of, and responsible to, the company for the conduc~o!)ts business at the time of the commission of the offence, shall be deemed to be guilty of an offence, and shall be liable to be proceeded against and punished accordingly:
+
+**==> picture [13 x 14] intentionally omitted <==**
+
+Penalty for attempt to **commit an** offence under this Regulation. Penalty for making vexatious search. seizure, detention or arrest.
+
+Penalty for refusing to perform or withdraw from duty.
+
+Penalty for offence! not otherwise provided for.
+
+Presumption as to commission of offence in certain cases.
+
+Enhanced punishment after previous conviction.
+
+Power of court to implead manufacturer. etc.
+
+Commission of offence by companies.
+
+.: .. '
+
+[PARTfi-
+
+THE GAZETTE OF INDIA EXTRAORDINARY
+
+Procedure fc r launching prosecution n the case of major offences.
+
+'roccdurc for idjudication
+
+:n case of .
+
+offences.
+
+-' .. ,.~'"" .
+
+~ ..
+
+0._ I"" '
+
+Provided that where a company has ~ifJ~~.ent establishments or branch, the concerned Chief Executive and the person in-charge of such establishment, branch or unit nominated by the company as responsible for the conduct of business shall be liable for contravention in respect of such establishment, branch or unit: ).
+
+RESULT 3: Act: The Motor Vehicle Act, 1939 (Act 4 of 1939) | India | State | In Force
+Chapter II: ** | Section 19: Power of licensing authority to disqualify from holding a driving licence or revoke such licence .**
+
+**19. Power of licensing authority to disqualify from holding a driving licence or revoke such licence .** - (1) If a licensing authority is satisfied, after giving the holder of a driving licence an opportunity of being heard, that the -
+
+(a) is a habitual criminal or a habitual drunkard ; or
+
+(b) is a habitual addict to any narcotic drug or psychotropic substance within the meaning of the Narcotic Drugs and Psychotropic Substances Act, 1985 ; or
+
+(c) is using or has used a motor vehicle in the commission of a cognizable offence ; or
+
+(d) has by his previous conduct as driver of a motor vehicle shown that his driving is likely to be attended with danger to the public ; or
+
+(e) has obtained any driving licence or a licence to drive a particular class or description of motor vehicle by fraud or misrepresentation ; or
+
+(f) has committed any such act which is likely to cause nuisance or danger to the public, as may be prescribed by the Central Government, having regard to the objects of this Act; or
+
+(g) has failed to submit to, or has not passed, the tests referred to in the proviso to sub-section (3) of section 22 ; or
+
+(h) being a person under the age of eighteen years who has been granted a learner's licence or a driving licence with the consent in writing of the person having the care of the holder of the licence and has ceased to be in such care, it may, for reasons to be recorded in writing, make an order -
+
+RESULT 4: Act: The motor transport workers act, 1961 (Act 27 of 1961) | India | State | In Force
+Chapter VIII: ## PENALTIES AND PROCEDURE | Section 35: Cognizance of offences
+
+**35. Cognizance of offences.—** No court shall take cognizance of any offence under this Act except on complaint made by, or with the previous sanction in writing of, the inspector and no court inferior to that of a Presidency magistrate or a magistrate of the first class shall try any offence punishable under this Act.
+
+RESULT 5: Act: The Motor Vehicle Act, 1939 (Act 4 of 1939) | India | State | In Force
+Chapter II: ** | Section 23: Effect of disqualification order.** - (1) A person in respect of whom any disqualification order is
+
+**23. Effect of disqualification order.** - (1) A person in respect of whom any disqualification order is made under section 19 or section 20 shall be debarred to the extent and for the period specified in such order from holding or obtaining a driving licence and the driving licence, if any, held by such person at the date of the order shall cease to be effective to such extent and during such period.",,
+Q9,What laws govern student attendance requirements in colleges?,corpus_coverage_to_check,"Legal provisions about college attendance requirements, if present",5,"1. The rights of persons with disabilities act, 2016
+2. The Prison Act, 1894
+3. The motor transport workers act, 1961
+4. The Motor Vehicle Act, 1939
+5. The Motor Vehicle Act, 1939","1. 31
+2. 31
+3. 9
+4. 12
+5. 95","1. 0.3181
+2. 0.3124
+3. 0.3039
+4. 0.2954
+5. 0.2873","RESULT 1: Act: The rights of persons with disabilities act, 2016 (Act 49 of 2016) | India | State | In Force
+Chapter VI: SPECIAL PROVISIONS FOR PERSONS WITH BENCHMARK DISABILITES | Section 31: Free education for children with benchmark disabilities.** —( _1_ ) Notwithstanding anything contain
+
+## CHAPTER VI
+
+SPECIAL PROVISIONS FOR PERSONS WITH BENCHMARK DISABILITES
+
+**31. Free education for children with benchmark disabilities.** —( _1_ ) Notwithstanding anything contained in the Rights of Children to Free and Compulsory Education Act, 2009 (35 of 2009), every child with benchmark disability between the age of six to eighteen years shall have the right to free education in a neighbourhood school, or in a special school, of his choice.
+
+( _2_ ) The appropriate Government and local authorities shall ensure that every child with benchmark disability has access to free education in an appropriate environment till he attains the age of eighteen years.
+
+RESULT 2: Act: The Prison Act, 1894 (Act 9 of 1894) | India | State | In Force
+Chapter VI: FOOD, CLOTHING AND BEDDING OF CIVIL AND UNCONVICTED CRIMINAL PRISONERS** | Section 31: Maintenance of certain prisoners from private sources
+
+## **CHAPTER VI FOOD, CLOTHING AND BEDDING OF CIVIL AND UNCONVICTED CRIMINAL PRISONERS**
+
+**31. Maintenance of certain prisoners from private sources.—** A civil prisoner or an unconvicted criminal prisoner shall be permitted to maintain himself, and to purchase, or receive from private sources at proper hours, food, clothing, bedding or other necessaries, but subject to examination and to such rules as may be approved by the Inspector General.
+
+RESULT 3: Act: The motor transport workers act, 1961 (Act 27 of 1961) | India | State | In Force
+Chapter IV: ## WELFARE AND HEALTH | Section 9: Rest rooms
+
+**9. Rest rooms.—** ( _1_ ) In every place wherein motor transport workers employed in a motor transport undertaking are required to halt at night, there shall be provided and maintained by the employer for the use of those motor transport workers such number of rest rooms or such other suitable alternative accommodation, as may be prescribed.
+
+( _2_ ) The rest rooms or the alternative accommodation to be provided under sub-section ( _1_ ) shall be sufficiently lighted and ventilated and shall be maintained in a clean and comfortable condition.
+
+( _3_ ) The State Government may prescribe the standards in respect of construction, accommodation, furniture and other equipment of rest rooms or the alternative accommodation to be provided under this section.
+
+RESULT 4: Act: The Motor Vehicle Act, 1939 (Act 4 of 1939) | India | State | In Force
+Chapter II: ** | Section 12(4): Licensing and regulation of schools or establishments for imparting instruction in driving of motor
+
+learner's licence or a driving licence issued under this Act shall be effective throughout India.
+
+_**Corresponding Law.**_ - Section 13 corresponds to section 9(1) of the Motor Vehicles Act, 1939.
+
+_**Objects and Reasons.**_ - Clause 13 specified the extent of validity of a learner's licence and a driving licence. The licences are to be valid throughout India.
+
+RESULT 5: Act: The Motor Vehicle Act, 1939 (Act 4 of 1939) | India | State | In Force
+Chapter II: ** | Section 95: Power of State Government to make rules as to stage carriages**
+
+**95. Power of State Government to make rules as to stage carriages**
+
+**and contract carriages -** (1) A State Government may make rules to regulate, in respect of stage carriages and contract carriages and the conduct of passengers in such vehicles.
+
+(2) Without prejudice to the generality of the foregoing provision, such rules may -
+
+(a) authorise the removal from such vehicle of any person contravening the rules by the driver or conductor of the vehicle, or, on the request of the driver or conductor, or any passenger, by any police officer ;
+
+(b) require a passenger who is reasonably suspected by the driver or conductor of contravening the rules to give his name and address to a police officer or to the driver or conductor on demand.
+
+(c) Require a passenger to declare, if so demanded by the driver or conductor, the journey he intends to take or has taken in the vehicle and to pay the fare for the whole of such journey and to accept any ticket issued therefor ;
+
+(d) Require, on demand being made for the purpose by the driver or conductor or other person authorised by the owners of the vehicle, production during the journey and surrender at the end of the journey by the holder thereof of any ticket issued to him ;
+
+(e) Require a passenger, if so requested by the driver or conductor, to leave the vehicle on the completion of the journey the fare for which he has paid ;",,
+Q10,What legal protections apply to students who experience discrimination in educational institutions?,corpus_coverage_to_check,"Legal provisions concerning discrimination in educational institutions, if present",5,"1. The rights of persons with disabilities act, 2016
+2. The rights of persons with disabilities act, 2016
+3. The rights of persons with disabilities act, 2016
+4. The rights of persons with disabilities act, 2016
+5. The rights of persons with disabilities act, 2016","1. 31
+2. 74
+3. 9
+4. 37
+5. 44","1. 0.4218
+2. 0.2756
+3. 0.2715
+4. 0.2702
+5. 0.2692","RESULT 1: Act: The rights of persons with disabilities act, 2016 (Act 49 of 2016) | India | State | In Force
+Chapter VI: SPECIAL PROVISIONS FOR PERSONS WITH BENCHMARK DISABILITES | Section 31: Free education for children with benchmark disabilities.** —( _1_ ) Notwithstanding anything contain
+
+## CHAPTER VI
+
+SPECIAL PROVISIONS FOR PERSONS WITH BENCHMARK DISABILITES
+
+**31. Free education for children with benchmark disabilities.** —( _1_ ) Notwithstanding anything contained in the Rights of Children to Free and Compulsory Education Act, 2009 (35 of 2009), every child with benchmark disability between the age of six to eighteen years shall have the right to free education in a neighbourhood school, or in a special school, of his choice.
+
+( _2_ ) The appropriate Government and local authorities shall ensure that every child with benchmark disability has access to free education in an appropriate environment till he attains the age of eighteen years.
+
+RESULT 2: Act: The rights of persons with disabilities act, 2016 (Act 49 of 2016) | India | State | In Force
+Chapter XII: CHIEF COMMISSIONER AND STATE COMMISSIONER FOR PERSONS WITH DISABILITIES | Section 74: Appointment of Chief Commissioner and Commissioners.** —( _1_ ) The Central Government may, by notif
+
+( _7_ ) The salaries and allowances and other conditions of service of officers and employees shall be such as may be prescribed by the Central Government.
+
+( _8_ ) The Chief Commissioner shall be assisted by an advisory committee comprising of not more than eleven members drawn from the experts from different disabilities in such manner as may be prescribed by the Central Government.
+
+## **75. Functions of Chief Commissioner.** —( _1_ ) The Chief Commissioner shall—
+
+( _a_ ) identify, _suo motu_ or otherwise, the provisions of any law or policy, programme and procedures, which are inconsistent with this Act and recommend necessary corrective steps;
+
+( _b_ ) inquire, _suo motu_ or otherwise, deprivation of rights of persons with disabilities and safeguards available to them in respect of matters for which the Central Government is the appropriate Government and take up the matter with appropriate authorities for corrective action;
+
+( _c_ ) review the safeguards provided by or under this Act or any other law for the time being in force for the protection of rights of persons with disabilities and recommend measures for their effective implementation;
+
+( _d_ ) review the factors that inhibit the enjoyment of rights of persons with disabilities and recommend appropriate remedial measures;
+
+( _e_ ) study treaties and other international instruments on the rights of persons with disabilities and make recommendations for their effective implementation;
+
+RESULT 3: Act: The rights of persons with disabilities act, 2016 (Act 49 of 2016) | India | State | In Force
+Chapter II: ## RIGHTS AND ENTITLEMENTS | Section 9: Home and family.** —( _1_ ) No child with disability shall be separated from his or her parents on t
+
+**9. Home and family.** —( _1_ ) No child with disability shall be separated from his or her parents on the ground of disability except on an order of competent court, if required, in the best interest of the child.
+
+( _2_ ) Where the parents are unable to take care of a child with disability, the competent court shall place such child with his or her near relations, and failing that within the community in a family setting or in exceptional cases in shelter home run by the appropriate Government or non-governmental organisation, as may be required.
+
+RESULT 4: Act: The rights of persons with disabilities act, 2016 (Act 49 of 2016) | India | State | In Force
+Chapter VI: SPECIAL PROVISIONS FOR PERSONS WITH BENCHMARK DISABILITES | Section 37: Special schemes and development programmes.** —The appropriate Government and the local authorities shall, by notification, make schemes in favour of persons with benchmark disabilities, to provide,—
+
+**37. Special schemes and development programmes.** —The appropriate Government and the local authorities shall, by notification, make schemes in favour of persons with benchmark disabilities, to provide,—
+
+( _a_ ) five per cent. reservation in allotment of agricultural land and housing in all relevant schemes and development programmes, with appropriate priority to women with benchmark disabilities;
+
+( _b_ ) five per cent. reservation in all poverty alleviation and various developmental schemes with priority to women with benchmark disabilities;
+
+( _c_ ) five per cent. reservation in allotment of land on concessional rate, where such land is to be used for the purpose of promoting housing, shelter, setting up of occupation, business, enterprise, recreation centres and production centres.
+
+RESULT 5: Act: The rights of persons with disabilities act, 2016 (Act 49 of 2016) | India | State | In Force
+Chapter VIII: DUTIES AND RESPONSIBILITIES OF APPROPRIATE GOVERNMENTS | Section 44: Mandatory observance of accessibility norms.** —( _1_ ) No establishment shall be granted permission
+
+**44. Mandatory observance of accessibility norms.** —( _1_ ) No establishment shall be granted permission to build any structure if the building plan does not adhere to the rules formulated by the Central Government under section 40.
+
+( _2_ ) No establishment shall be issued a certificate of completion or allowed to take occupation of a building unless it has adhered to the rules formulated by the Central Government.",,

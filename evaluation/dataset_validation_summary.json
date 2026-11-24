@@ -1,0 +1,17 @@
+{
+    "validation_timestamp": "2026-11-16T06:21:35.192435+00:00",
+    "validation_status": "PASS",
+    "processed_records": 500,
+    "approved_records": 259,
+    "quarantined_records": 241,
+    "audit_flagged_records": 241,
+    "quality_control_report_records": 500,
+    "approved_decision_counts": {
+        "eligible_after_automated_checks": 259
+    },
+    "error_count": 0,
+    "warning_count": 0,
+    "errors": [],
+    "warnings": [],
+    "note": "This report confirms technical consistency only. It does not certify legal accuracy, source authenticity, or current applicability."
+}

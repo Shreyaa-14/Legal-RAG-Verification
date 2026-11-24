@@ -1,0 +1,501 @@
+﻿record_id,title,act_id,chunk_id,audit_flagged,manual_review_status,quality_control_decision,issues,review_message
+52f274ffdb2b5412603d,The Andaman and Nicobar Islands Municipal Regulation 1994,IND_state_19000,IND_state_19000_s016_8,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+2f278c30b6f6d6960a42,The Andaman and Nicobar Islands Panchayats Regulation 1994,IND_state_19001,IND_state_19001_s005,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+9146d1630cac7b182620,"The andaman and nicobar islands excise regulati0n, 2012",IND_state_18984,IND_state_18984_s019,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+c9122ae418b1b3c9f59d,The Andaman and Nicobar Islands Panchayats Regulation 1994,IND_state_19001,IND_state_19001_s006,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+e7741d1bbbe9fba26a78,The Andaman and Nicobar Islands Municipal Regulation 1994,IND_state_19000,IND_state_19000_s136_p6,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+a821ad21e3e7430a2bcd,The constitution of india,IND_state_19151,IND_state_19151_s013_2_d7,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+281e715a894699b462ab,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s076_25,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+6881a42154cf135c2035,The Child Labour (Prohibition and Regulation) Act 1986,IND_state_19316,IND_state_19316_b000_2_d7,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+5b96a9a985ae0b4df7df,"The Indian Port Act, 1908",IND_state_19314,IND_state_19314_b000_p27,True,not_reviewed,quarantined,encoding_corruption,Basic record validation failed.
+010b66cc81db9dccfd4e,"The andaman and nicobar islands excise regulati0n, 2012",IND_state_18984,IND_state_18984_s029_p0,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+3dd66278f19276f03965,The constitution of india,IND_state_19151,IND_state_19151_s013_2_d14,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+f4d0da493a038517f4a7,"The Air ( Prevention and Control of Pollution) Act, 1981",IND_state_18981,IND_state_18981_s036_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+ecb86ee51cd6bec34f78,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s58F_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+9eb047c014d63f5f7af1,"The factories act, 1948",IND_state_18999,IND_state_18999_s111_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+a7202c05307bc14d3692,"The Waqf Act, 1995",IND_state_19319,IND_state_19319_s064_p3,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+6d925c73f5ad6e257819,"The regiatrstion act, 1908",IND_state_19013,IND_state_19013_s001_d1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+e9cc408f95e3b88c3ea0,The constitution of india,IND_state_19150,IND_state_19150_s001_10_d4,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+1a1de24b5543b1db1f3c,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s076_3,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+e5a90b8cbd9580a06918,"The factories act, 1948",IND_state_18999,IND_state_18999_s066_2,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+e36be86e27fa20d3df8b,"The Waqf Act, 1995",IND_state_19319,IND_state_19319_s091_p1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+9f7a4bd1b22e0e86edf5,"The regiatrstion act, 1908",IND_state_19013,IND_state_19013_s058,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+d00caea5905ddd5f1341,The andaman and nicobar islands land revenue and reforms regulation 1966,IND_state_18989,IND_state_18989_s081,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+5d6801447c80216b9653,"The inland vessels act, 1917",IND_state_19019,IND_state_19019_s062,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+f7e05902304a8d208255,The Andaman and Nicobar Islands Municipal Regulation 1994,IND_state_19000,IND_state_19000_s136_p1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+1f3e82b6597b6949f14c,The constitution of india,IND_state_19150,IND_state_19150_s013_3_d2,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+031124ec0755c2b53efd,"The advocates welfare fund act, 2001",IND_state_19005,IND_state_19005_s020,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+f42b4b722dc2b70df001,The Andaman and Nicobar Islands Municipal Regulation 1994,IND_state_19000,IND_state_19000_s11U_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+ca3f3ce429b93fb7bf9f,The andaman and nicobar islands juvenile smoking regulation 1955,IND_state_18986,IND_state_18986_s007,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+25babd0131f3db578969,"The regiatrstion act, 1908",IND_state_19013,IND_state_19013_s050,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+6dcb28b05b06c233eeaa,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s002,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+fcb64f3e3ede6610cf18,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s012_3_d4,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+d634833612115941a0d1,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s053_4,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+76c88d9e8077ed9ac2a7,"The factories act, 1948",IND_state_18999,IND_state_18999_s084,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+36da40e3ae267a99fe45,"The maternity benefit act, 1961",IND_state_19024,IND_state_19024_s005_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+1ae6555fbd9769c81ec9,The andaman and nicobar islands land revenue and reforms regulation 1966,IND_state_18989,IND_state_18989_s209,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+6849ce609dd24375a897,"The Prison Act, 1894",IND_state_20557,IND_state_20557_s002_2,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+5a86ea8f484ca003b1e7,"The rights of persons with disabilities act, 2016",IND_state_19015,IND_state_19015_s030,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+9461ccaa7756ef459d85,"The real estate (regulation and development) act, 2016",IND_state_19012,IND_state_19012_s023,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+fea65ba670dfd79c0b3b,"The Indian Port Act, 1908",IND_state_19314,IND_state_19314_b000_p19,True,not_reviewed,quarantined,encoding_corruption,Basic record validation failed.
+e2374ae33fc43b2900e0,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s029,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+63b02c84bff9d3d01b8e,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s061,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+4961474a57b8455366ce,The andaman and nicobar islands land revenue and reforms regulation 1966,IND_state_18989,IND_state_18989_s077,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+7b11daea00cec146ebfd,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s025_p4,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+86346a956f1eb557bd80,The constitution of india,IND_state_19150,IND_state_19150_s013_2_d3,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+87f89c6015b8723b30cd,"The regiatrstion act, 1908",IND_state_19013,IND_state_19013_s061,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+824e5393c3fb029db554,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s122,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+e1e63c1da9d00a4534a9,"The plantations labour act, 1951",IND_state_19011,IND_state_19011_s32A,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+791b1fb3ccffcae0779f,"The factories act, 1948",IND_state_18999,IND_state_18999_s07B_3,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+7feb1f8b784b274d784e,"The inland vessels act, 1917",IND_state_19019,IND_state_19019_s026_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+d1a7ce6c59055b5b076f,"The andaman and nicobar islands excise regulati0n, 2012",IND_state_18984,IND_state_18984_s026,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+63f93dcd43c5ff13ca4d,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s008_p1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+f77d954ee79132095875,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s034_p1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+19a8d0e166e675e93b75,The Andaman and Nicobar Islands Panchayats Regulation 1994,IND_state_19001,IND_state_19001_s129_p0,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+2bd2f335a8ae6ecb94e3,The Indian Forest Act 1927,IND_state_19313,IND_state_19313_s048,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+f375f1fe7971660f0ef3,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s031,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+07ec5129920a130887e6,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s215_4,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+7607917c79f020adf172,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s042_p1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+5cd3509a643782db1710,"The inland vessels act, 1917",IND_state_19019,IND_state_19019_s002_p2,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+9bc96cce530a764b1f6f,"The rights of persons with disabilities act, 2016",IND_state_19015,IND_state_19015_s098,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+8b192139cdb7574a52d1,"The rights of persons with disabilities act, 2016",IND_state_19015,IND_state_19015_s045,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+ca61b4dc300cd4e183ae,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s001_p0_d1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+974dc7a349649ff7bfd3,"The Mines and Minerals (Development and Reguation), Act, 1957",IND_state_20096,IND_state_20096_s30B,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+2bc0a7f66251a037d8a6,The andaman and nicobar islands entertainment tax regulation 1951,IND_state_18983,IND_state_18983_b000_2_d3,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+5301db9161f850d7e3b7,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s17C_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+697b6a48b5c3deaed730,"The real estate (regulation and development) act, 2016",IND_state_19012,IND_state_19012_s085,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+4dd53dff243b1d89d765,"The Prison Act, 1894",IND_state_20557,IND_state_20557_s052_p1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+756cfc32d3c7c4fa16eb,The Andaman and Nicobar Islands Panchayats Regulation 1994,IND_state_19001,IND_state_19001_s001,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+b67e19f1a4e7c5fc8ec0,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s167,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+8cf63765027498b19f92,"The regiatrstion act, 1908",IND_state_19013,IND_state_19013_s045,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+a50727dd01cc166aff3a,"The plantations labour act, 1951",IND_state_19011,IND_state_19011_s036,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+1d64d73e67dba5be55a6,The andaman and nicobar islands land revenue and reforms regulation 1966,IND_state_18989,IND_state_18989_s161_3,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+71dc8bb64353922e1bc2,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s086_2,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+ce20d2138b80896ca474,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s087_11,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+12fcc0af01c755f72fc0,"The Indian Port Act, 1908",IND_state_19314,IND_state_19314_b000_p65,True,not_reviewed,quarantined,encoding_corruption,Basic record validation failed.
+7c44f2d0029d94e7039b,"The rights of persons with disabilities act, 2016",IND_state_19015,IND_state_19015_s065_p1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+bb994f346fd0d6214741,The Indian Forest Act 1927,IND_state_19313,IND_state_19313_s051,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+1a429c9c44d50b2af42a,"The factories act, 1948",IND_state_18999,IND_state_18999_s059_p2,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+83cf6a8ff6dab3ddc876,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s050_7_d1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+1b27c5de0e208b3f1e99,"The Andaman and Nicobar Islands Marine Fishing Regulation, 2003",IND_state_18993,IND_state_18993_s017_7,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+fee7827cfdf20113c271,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s020_2,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+ed660f50b6442c6b7c16,"The mimimum wates act, 1948",IND_state_19025,IND_state_19025_s002_b,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+f76f5d52979309f4b44e,"The factories act, 1948",IND_state_18999,IND_state_18999_s077,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+cd238ed2f5a1fa6c7ae3,The Andaman and Nicobar Islands Panchayats Regulation 1994,IND_state_19001,IND_state_19001_s012_p1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+895c06d0173762bd73f2,"The Mines and Minerals (Development and Reguation), Act, 1957",IND_state_20096,IND_state_20096_s10B_p1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+183911422fe926a30ba6,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s38A_3,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+17abfed31c1b8d2224fc,The andaman and nicobar islands land revenue and reforms regulation 1966,IND_state_18989,IND_state_18989_s134_p0,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+280e9fd48ae784e4b827,The andaman and nicobar islands land improvement scheme regulation 1963,IND_state_18988,IND_state_18988_s024_p3,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+dadb95efaa248fe8a2ac,"The regiatrstion act, 1908",IND_state_19013,IND_state_19013_s055_p1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+b7d4c85ce36453d845c1,"The rights of persons with disabilities act, 2016",IND_state_19015,IND_state_19015_s063,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+c76e96f23568476a1d73,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s019_p0,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+6fedd399d08117b77723,The Andaman and Nicobar Islands Municipal Regulation 1994,IND_state_19000,IND_state_19000_s055,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+8782dfd7c9d30afe9bdc,The Andaman and Nicobar Islands Municipal Regulation 1994,IND_state_19000,IND_state_19000_s022_3_d1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+228eae80ecea5fc91242,"The andaman and nicobar islands excise regulati0n, 2012",IND_state_18984,IND_state_18984_s058,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+fac47335a3fe47e5365d,"The Indian Port Act, 1908",IND_state_19314,IND_state_19314_b000_p13,True,not_reviewed,quarantined,encoding_corruption,Basic record validation failed.
+0edf35a918fe42ee590a,The constitution of india,IND_state_19151,IND_state_19151_s013_2_d12,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+a03a9c80019280a95776,The Indian Forest Act 1927,IND_state_19313,IND_state_19313_s028,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+c86c1f31e07a69b39584,The andaman and nicobar islands entertainment tax regulation 1951,IND_state_18983,IND_state_18983_b000_3,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+a49bc63c0d1064dc4ba8,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s38G,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+dee6a7cfbf1bcbf3092f,"The andaman and nicobar islands excise regulati0n, 2012",IND_state_18984,IND_state_18984_s006_2,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+dd34a6abfd109ce007b6,"The factories act, 1948",IND_state_18999,IND_state_18999_s41D_d1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+91f9a1ffb81894b1ecad,The Andaman and Nicobar Islands Panchayats Regulation 1994,IND_state_19001,IND_state_19001_s021_p1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+b96eb1fc182e18202aca,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s144,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+0adc31b826fee9e5d9f8,The andaman and nicobar islands land revenue and reforms regulation 1966,IND_state_18989,IND_state_18989_s091,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+8ae736cc9b592ce43e25,"The regiatrstion act, 1908",IND_state_19013,IND_state_19013_s035_p1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+feba4e89f990dacfb026,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s043_p1_d1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+4348b795b01f5ef8904d,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s009_p0,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+8764a62e969565c033fb,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s58B_p1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+161692b28568163c62e5,The andaman and nicobar islands land revenue and reforms regulation 1966,IND_state_18989,IND_state_18989_s034,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+3a5604b5bfaf6825ec97,"The rights of persons with disabilities act, 2016",IND_state_19015,IND_state_19015_s037,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+b00dddd0ac837cc2260b,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s006_3,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+365d688aed43eeae1e79,The Andaman and Nicobar Islands Municipal Regulation 1994,IND_state_19000,IND_state_19000_s082_p1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+9ab0763f6e2b2e01fd4e,"The Prison Act, 1894",IND_state_20557,IND_state_20557_s036,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+933037a34574e757cbe7,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s079_6,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+4ecd051b7416d4f7532e,"The real estate (regulation and development) act, 2016",IND_state_19012,IND_state_19012_s034_p0,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+6b72967198efe4225037,"The Indian Port Act, 1908",IND_state_19314,IND_state_19314_b000_p47,True,not_reviewed,quarantined,encoding_corruption,Basic record validation failed.
+19e80fb382319bd9b5c4,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s141_3,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+9497d608c0b3faf4484e,The Andaman and Nicobar Islands Panchayats Regulation 1994,IND_state_19001,IND_state_19001_s015_p0_d1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+e13ee4db5b5fde350027,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s110_2_d1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+9c8bcff993f85ba16053,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s38E_p0_d1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+e2fdf719da4f57d8012a,"The factories act, 1948",IND_state_18999,IND_state_18999_s093_2,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+2c8cbe5dd4d9e660a4cf,"The payment of wages act, 1936",IND_state_19010,IND_state_19010_s005_p3,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+42d6841e5bbecde65ab9,"The inland vessels act, 1917",IND_state_19019,IND_state_19019_s63B_p1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+081e1a170fd0229b223b,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s008_d2,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+ebf08b2a4f4a7af5e310,"The Air ( Prevention and Control of Pollution) Act, 1981",IND_state_18981,IND_state_18981_s39D_p1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+d6e60532d05fbf946f80,The Indian Forest Act 1927,IND_state_19313,IND_state_19313_s030,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+fc16d9d7611dfe320d3f,"The Waqf Act, 1995",IND_state_19319,IND_state_19319_s049,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+b16165e3cda10ad59970,The Andaman and Nicobar Islands Municipal Regulation 1994,IND_state_19000,IND_state_19000_s092_6_d1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+a54c9a176c653f2b4895,"The ANDAMAN & NICOBAR ISLANDS TOWN &COUNTRY PLANNING REGULATION,1994",IND_state_19003,IND_state_19003_s017_p1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+720918bdd498ce3877fc,"The regiatrstion act, 1908",IND_state_19013,IND_state_19013_s017_p3,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+842d1afadca0c081f772,"The real estate (regulation and development) act, 2016",IND_state_19012,IND_state_19012_s043_p1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+75ca7b93768b885b91eb,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s043_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+faf2f44ec4dc9a666459,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s001_p0_d1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+ae6392a74fe0fcea2c4f,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s001_p4,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+b03c5d0a9ad0a7a5c9ea,"The Andaman and Nicobar Islands Marine Fishing Regulation, 2003",IND_state_18993,IND_state_18993_s012_p1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+7ece292ce6a68477a890,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s112_3,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+f1a69efc52ff28b67ee3,The andaman and nicobar islands land revenue and reforms regulation 1966,IND_state_18989,IND_state_18989_s131,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+d87f8edc6dac1bf1f9d7,The Andaman and Nicobar Islands Municipal Regulation 1994,IND_state_19000,IND_state_19000_s002_15,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+462976ef65c7f10217ec,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s074_p2,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+f0d0c2527cda7005b942,The Andaman and Nicobar Islands Panchayats Regulation 1994,IND_state_19001,IND_state_19001_s011,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+596966668bb416874390,"The regiatrstion act, 1908",IND_state_19013,IND_state_19013_s017_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+643b91a1ae053d312eab,The Indian Forest Act 1927,IND_state_19313,IND_state_19313_s032_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+c13326a34336479c1c7b,"The factories act, 1948",IND_state_18999,IND_state_18999_s079_12,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+6c557105104c565ba183,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s076_16,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+0b4dcffac3cd013ec772,The andaman and nicobar islands land revenue and reforms regulation 1966,IND_state_18989,IND_state_18989_s014_p2,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+95880b6ac97165a30e41,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s042,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+8172f5511e0111466edf,"The Mines and Minerals (Development and Reguation), Act, 1957",IND_state_20096,IND_state_20096_s11C_p3,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+43463d944fcd0961123d,"The plantations labour act, 1951",IND_state_19011,IND_state_19011_s16C,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+ec7c41fdabe4ba18c300,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s38E_2,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+84db4d68c351cb7d08eb,The constitution of india,IND_state_19150,IND_state_19150_s013_3,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+1c42e3cb5a02c6640a6c,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s010_p0,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+5d5d11c0858f0afee880,The Andaman and Nicobar Islands Municipal Regulation 1994,IND_state_19000,IND_state_19000_s089_2_d1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+90dcab17269728cad0f2,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s103_2_d1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+99d3aac01501c6a8c764,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s110_2_d2,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+76b1a4f167647b13b6cc,"The mimimum wates act, 1948",IND_state_19025,IND_state_19025_s22F,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+7325451aae720ad3b265,The andaman and nicobar islands land revenue and reforms regulation 1966,IND_state_18989,IND_state_18989_s070_4,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+fa959d1244820bf0a825,The andaman and nicobar islands land revenue and reforms regulation 1966,IND_state_18989,IND_state_18989_s002_p0,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+54343b2d1c92eddff6a2,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s201,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+0310d2e410e230bf8e8d,"The factories act, 1948",IND_state_18999,IND_state_18999_s020,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+3b644ffd277c22ce7859,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s58D,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+ec5f3e07f7b9eda98b0d,"The Mines and Minerals (Development and Reguation), Act, 1957",IND_state_20096,IND_state_20096_s11C_p1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+ad8bb38e56903a89d455,"The regiatrstion act, 1908",IND_state_19013,IND_state_19013_s016,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+c9aa0cefa17a832da8f6,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s58A,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+b474d4b944a4620e55db,"The andaman and nicobar islands excise regulati0n, 2012",IND_state_18984,IND_state_18984_s002_56,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+6ddf13b9219c2ef3d3c1,"The Mines and Minerals (Development and Reguation), Act, 1957",IND_state_20096,IND_state_20096_s026,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+d6042c8006cfa22bead9,The andaman and nicobar islands land revenue and reforms regulation 1966,IND_state_18989,IND_state_18989_s084,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+a11ed70da53fbd45b008,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s004_d4,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+8bf86769557e918e1701,"The factories act, 1948",IND_state_18999,IND_state_18999_s107_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+da84e2b830f5794d7ae4,"The Waqf Act, 1995",IND_state_19319,IND_state_19319_s068_p1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+f73550c60c91e9c1c387,The Andaman and Nicobar Islands Prevention of Defacement of Property Regulation 1987,IND_state_19002,IND_state_19002_s001,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+ad214ef38c11f2711e6d,"The Indian Port Act, 1908",IND_state_19314,IND_state_19314_b000_p11,True,not_reviewed,quarantined,encoding_corruption,Basic record validation failed.
+c015397b65c2fb1bb1bb,"The Waqf Act, 1995",IND_state_19319,IND_state_19319_s010,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+f0288bfdaae5f62bcca7,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s003_31,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+eadd0804d6d49f3adc3f,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s065_p1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+48ee3e5f8dd1714bb292,The Child Labour (Prohibition and Regulation) Act 1986,IND_state_19316,IND_state_19316_b000_4_d1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+322fed8933e8ebfda1f2,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s009_d3,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+740c0a3e3f66dc93dda4,"The Waqf Act, 1995",IND_state_19319,IND_state_19319_s048_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+65bd875b6936a56a72d1,The constitution of india,IND_state_19150,IND_state_19150_s001_7,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+c008c8f43d8ef90944e9,"The andaman and nicobar islands excise regulati0n, 2012",IND_state_18984,IND_state_18984_s079_7,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+0123e8fba6f6777ec055,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s052_p1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+327c37e3f719d1425336,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s001_4,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+2bdafcd365dbdc3652a1,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s003_35,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+2f1034fda47db6c2feb1,The andaman and nicobar islands land revenue and reforms regulation 1966,IND_state_18989,IND_state_18989_s043,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+7cb2494482f1aeb69ab4,"The contract labour (regulation and abolition) act, 1970",IND_state_18997,IND_state_18997_s018_3_d2,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+b99f776f170b7014ca5a,"The rights of persons with disabilities act, 2016",IND_state_19015,IND_state_19015_s001_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+d8a4eefc68eccb09b0ca,The constitution of india,IND_state_19150,IND_state_19150_s001_3_d10,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+bfdf28c49f0923f466a8,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s041_14_d1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+46771c439e84c8b80d74,"The mimimum wates act, 1948",IND_state_19025,IND_state_19025_s017_3_d1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+5ef8f61587739285833e,"The real estate (regulation and development) act, 2016",IND_state_19012,IND_state_19012_s086_p1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+60d5c9f38e9582400183,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s059_2_d1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+66f28743440b9188ecd9,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s009_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+ff54c990ed34991c374f,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s132_p0,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+28cab194792a61aa0538,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s023_3,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+ddef93a746e3088eee48,"The Indian Port Act, 1908",IND_state_19314,IND_state_19314_b000_p72,True,not_reviewed,quarantined,encoding_corruption,Basic record validation failed.
+fd5164bf70a4954fb1d0,"The andaman and nicobar islands excise regulati0n, 2012",IND_state_18984,IND_state_18984_s014_p0,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+c10e90d31af278b62cf5,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s018_p0,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+b3ecaeed4abcb0e8e0b1,"The plantations labour act, 1951",IND_state_19011,IND_state_19011_s031_p1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+5cfcb3d1b5d3852a7e79,The andaman and nicobar islands land revenue and reforms regulation 1966,IND_state_18989,IND_state_18989_s086,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+ea0c7e2bd8f37d913f11,"The Indian Port Act, 1908",IND_state_19314,IND_state_19314_b000_p42,True,not_reviewed,quarantined,encoding_corruption,Basic record validation failed.
+40df85315f85a43d1e6b,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s056_3,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+cb8896e8ac7689254045,The andaman and nicobar islands land revenue and reforms regulation 1966,IND_state_18989,IND_state_18989_s038_5,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+bc43c59770d02f31808a,The Andaman and Nicobar Islands Panchayats Regulation 1994,IND_state_19001,IND_state_19001_s016,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+ea8ee6d40c60e9db14c5,The andaman and nicobar islands opium smoking prohibition regulation 1955,IND_state_18992,IND_state_18992_s014_3,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+cd9e860c46e6bee8a667,"The factories act, 1948",IND_state_18999,IND_state_18999_s118_2_d1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+5e57b9f4790cf61fecd7,The Andaman and Nicobar Islands Municipal Regulation 1994,IND_state_19000,IND_state_19000_s11U_2,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+477f64b6a0a16bad486d,"The payment of wages act, 1936",IND_state_19010,IND_state_19010_s17A_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+ebc041c1a9944bfe3eeb,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s019_3,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+6dc83d28025d5c07dca2,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s076_4,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+63ed901da457ce884714,"The rights of persons with disabilities act, 2016",IND_state_19015,IND_state_19015_s041,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+46920978acd55434277d,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s043,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+793b223740bad3312193,"The plantations labour act, 1951",IND_state_19011,IND_state_19011_s008,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+0ad707bac5dbc55414c7,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s009_d1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+e4fbedd428089182f984,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s100_3,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+9b6d73ecd177d7fb745e,"The maternity benefit act, 1961",IND_state_19024,IND_state_19024_s016,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+7b40078b72fe7257b85b,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s012,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+674408f011750ffba9d3,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s056_2,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+32468c4b71a08dce5228,The Andaman and Nicobar Islands Municipal Regulation 1994,IND_state_19000,IND_state_19000_s096_3,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+b0a4603382435445bc12,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s012_4_d3,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+7d75933eca618cfb67f7,"The real estate (regulation and development) act, 2016",IND_state_19012,IND_state_19012_s032_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+54a29c149960933e572a,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s008_d1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+6152f235023b3af5d545,"The real estate (regulation and development) act, 2016",IND_state_19012,IND_state_19012_s056,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+18200352a77c334fae3d,The Andaman and Nicobar Islands Municipal Regulation 1994,IND_state_19000,IND_state_19000_s002_34,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+40a20d5cde334b9cb362,"The Waqf Act, 1995",IND_state_19319,IND_state_19319_s032_p3,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+c9bde3deaa3c09ea2113,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s012_8,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+0c66406d9d92d9916ddf,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s076_5_d2,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+0863e87b717dd11236ba,"The Forest Conservation Act, 1980",IND_state_19317,IND_state_19317_s004,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+99b79f86032efc7fb071,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s002_d2,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+ae1cb58becd7e06bf088,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s022,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+c9f7918b225ddfb1b7e2,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s096_p6,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+2493e57d1ff9ce691e24,"The Indian Port Act, 1908",IND_state_19314,IND_state_19314_b000_p40,True,not_reviewed,quarantined,encoding_corruption,Basic record validation failed.
+83bec6aefb3136f5e8b9,The Indian Forest Act 1927,IND_state_19313,IND_state_19313_s063,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+29d845cd6b5384e32554,"The payment of wages act, 1936",IND_state_19010,IND_state_19010_s003_p0_d1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+7f1dc760267fedfab529,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s021_4,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+98980cbf69ca15288323,The Andaman and Nicobar Islands Municipal Regulation 1994,IND_state_19000,IND_state_19000_s123,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+063c97df4cac969c7343,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s045,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+44739e53dc2b262e9226,The constitution of india,IND_state_19151,IND_state_19151_s013_2_d13,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+f1356b5c24e1285595e7,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s003_32,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+858f75cd8bee6b608fc0,The Andaman and Nicobar Islands Panchayats Regulation 1994,IND_state_19001,IND_state_19001_s047_3,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+399be090d60fe2fbbd82,"The Prison Act, 1894",IND_state_20557,IND_state_20557_s056_p0,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+6fc085c7ada27dc35c74,"The factories act, 1948",IND_state_18999,IND_state_18999_s028_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+1f5628916ef5c818d4bd,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s212_p0,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+4cde72ed9ab39c5f5483,"The Mines and Minerals (Development and Reguation), Act, 1957",IND_state_20096,IND_state_20096_s002_p1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+0a0f667549c4af82c349,"The mimimum wates act, 1948",IND_state_19025,IND_state_19025_s002_c,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+a2cd678839d6eee8e8bd,"The regiatrstion act, 1908",IND_state_19013,IND_state_19013_s018_p1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+ae3ce536e7c5783902b6,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s215_p0,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+313eb130d16e7a858822,The Indian Forest Act 1927,IND_state_19313,IND_state_19313_s029_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+3b6debc07cc3265e4897,"The Waqf Act, 1995",IND_state_19319,IND_state_19319_s109_p1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+f4972a008e84f1be3088,"The maternity benefit act, 1961",IND_state_19024,IND_state_19024_s11A,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+28cc1475d80aad573860,"The maternity benefit act, 1961",IND_state_19024,IND_state_19024_s020_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+98130fb25c0c636ce7ec,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s002_5,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+31020d8ad431141288a3,The Andaman and Nicobar Islands Panchayats Regulation 1994,IND_state_19001,IND_state_19001_s002_p0,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+f884ccec4d71a3901d56,The Andaman and Nicobar Islands Municipal Regulation 1994,IND_state_19000,IND_state_19000_s092_p1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+4c4fa5ceb793c885c7de,"The Mines and Minerals (Development and Reguation), Act, 1957",IND_state_20096,IND_state_20096_s007_p4,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+d20bc572956500364b81,"The Indian Port Act, 1908",IND_state_19314,IND_state_19314_b000_p55,True,not_reviewed,quarantined,encoding_corruption,Basic record validation failed.
+03b6ec30101c430cbc1e,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s026_p0,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+3a2c4f86cd5f1d3db581,The Andaman and Nicobar Islands Panchayats Regulation 1994,IND_state_19001,IND_state_19001_s003,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+9f5478dc0fabd2d3643d,"The rights of persons with disabilities act, 2016",IND_state_19015,IND_state_19015_s058,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+3a3765897bdb870a4236,"The motor transport workers act, 1961",IND_state_19026,IND_state_19026_s035,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+281929b937702367fa57,"The andaman and nicobar islands excise regulati0n, 2012",IND_state_18984,IND_state_18984_s006_4,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+b1793fe7c749fb1feeba,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s145_g,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+5a8f9cc1d4a711a147f1,The Andaman and Nicobar Islands Municipal Regulation 1994,IND_state_19000,IND_state_19000_s064,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+502ddb317458aad2938b,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s056,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+da7f3e61ad989487e646,The constitution of india,IND_state_19151,IND_state_19151_s013_2_d16,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+43800f93e1322172ada3,"The factories act, 1948",IND_state_18999,IND_state_18999_s065_p1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+f55ff2b4dbe7480d50e0,"The real estate (regulation and development) act, 2016",IND_state_19012,IND_state_19012_s038,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+0de56cc72bbdfb57a149,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s076_26,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+f60b0e662518e46c151c,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s053_5,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+7c6c528e1b15b0629f5c,"The plantations labour act, 1951",IND_state_19011,IND_state_19011_s16D,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+cbe2878a55c4209a28aa,"The payment of wages act, 1936",IND_state_19010,IND_state_19010_s019,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+c4124df391e63958f871,"The Mines and Minerals (Development and Reguation), Act, 1957",IND_state_20096,IND_state_20096_s018_p5,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+03c20fa84254c95ce72d,"The Mines and Minerals (Development and Reguation), Act, 1957",IND_state_20096,IND_state_20096_s046,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+0d1949aee8caba46e1ad,The constitution of india,IND_state_19151,IND_state_19151_s013_2,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+dd055fe3d2958d876749,The constitution of india,IND_state_19150,IND_state_19150_s001_6,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+421cf74ac7dfd01c6e03,The andaman and nicobar islands land revenue and reforms regulation 1966,IND_state_18989,IND_state_18989_s121_p1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+4a266ecdcf269407076f,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s206_2_d1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+f98afbac2e58f2e529f1,"The rights of persons with disabilities act, 2016",IND_state_19015,IND_state_19015_s074_p1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+f80912f0474378c2be40,"The regiatrstion act, 1908",IND_state_19013,IND_state_19013_s021,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+0a539815640c10bab59e,"The andaman and nicobar islands excise regulati0n, 2012",IND_state_18984,IND_state_18984_s059_p0,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+8e2dd721b1526279dcb6,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s203,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+0c62f834747629b05195,The constitution of india,IND_state_19151,IND_state_19151_s013_4,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+016a2e2a57cfea826246,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s087_9,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+f4907ee5b32f571b47e0,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s056_2_d2,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+ff16f526e2bf950a76de,The Andaman and Nicobar Islands Municipal Regulation 1994,IND_state_19000,IND_state_19000_s032_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+a5965189bd661900aad9,The Andaman and Nicobar Islands Municipal Regulation 1994,IND_state_19000,IND_state_19000_s062,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+99cad32653dbdb10f7d0,"The Waqf Act, 1995",IND_state_19319,IND_state_19319_s014_p2,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+e99f0d7062d1b07f34a2,The Andaman and Nicobar Islands Panchayats Regulation 1994,IND_state_19001,IND_state_19001_s021_p3,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+918623ef7a8f942db4fc,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s38E_7,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+421dbafbe83868c32c34,The constitution of india,IND_state_19151,IND_state_19151_s001_6,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+5213bfc6a2244bc9cc25,"The Mines and Minerals (Development and Reguation), Act, 1957",IND_state_20096,IND_state_20096_s001_p2,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+0a9d46e1be6975319f49,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s145_e,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+133cb9cba541558087c8,"The factories act, 1948",IND_state_18999,IND_state_18999_s092,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+d37167cff1e1c4f2c34b,"The rights of persons with disabilities act, 2016",IND_state_19015,IND_state_19015_s044,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+012939f56f7d717f9b26,The Indian Forest Act 1927,IND_state_19313,IND_state_19313_s004_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+6c06c20a98f69f964647,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s018_p1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+bb1a239552b409461b46,"The Mines and Minerals (Development and Reguation), Act, 1957",IND_state_20096,IND_state_20096_s10B_p4,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+3ed2aee257618a632ddb,"The factories act, 1948",IND_state_18999,IND_state_18999_s086,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+54950653182d6fe50391,The andaman and nicobar islands entertainment tax regulation 1951,IND_state_18983,IND_state_18983_b000_2_d2,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+b22de75c005d5c5c1ba3,"The factories act, 1948",IND_state_18999,IND_state_18999_s019_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+6ea8e0c7a63bd818a6e4,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s078,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+942a7ec351dc9cf9ab67,"The rights of persons with disabilities act, 2016",IND_state_19015,IND_state_19015_s100_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+cd78e5df6e04da47e363,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s057_2,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+e1c5309fefd01b572069,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s038_4,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+2a5d9768e3e8b3074d67,The Andaman and Nicobar Islands Panchayats Regulation 1994,IND_state_19001,IND_state_19001_s004_p1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+559499356009e8e6d826,The andaman and nicobar islands land revenue and reforms regulation 1966,IND_state_18989,IND_state_18989_s212_p0,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+6368bf726636e3941ab8,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s003_p1,True,not_reviewed,quarantined,encoding_corruption,Basic record validation failed.
+d423477cfc75973721cf,"The rights of persons with disabilities act, 2016",IND_state_19015,IND_state_19015_s009,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+6e801e9ee582b5e438dc,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s212_3,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+500594668a7d0701f3c9,"The payment of wages act, 1936",IND_state_19010,IND_state_19010_s025,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+9c0091d8305b910ecbda,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s087_2_d2,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+c5967d265d016b468bbe,"The motor transport workers act, 1961",IND_state_19026,IND_state_19026_s001,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+1b2f0ad69bbc40d59dff,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s023_d1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+dc61b704a1ad4181b54f,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s086_p0,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+e86e3d46bc709d7bc032,The Andaman and Nicobar Islands Panchayats Regulation 1994,IND_state_19001,IND_state_19001_s045,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+c119ef76df6a132661f9,"The Waqf Act, 1995",IND_state_19319,IND_state_19319_s079,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+b395d39c6eb46a0b8ad6,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s096_p4,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+9ebd2ff35e164fecdcbe,"The andaman and nicobar islands excise regulati0n, 2012",IND_state_18984,IND_state_18984_s079_2,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+db76aab3ef8c39651fea,"The factories act, 1948",IND_state_18999,IND_state_18999_s061_7,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+499362cd08917e6e6dd7,"The andaman and nicobar islands excise regulati0n, 2012",IND_state_18984,IND_state_18984_s002_12,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+e3b3b10466e3ca6aecf9,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s012_4_d1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+72c6b5456d8c33de7e42,"The factories act, 1948",IND_state_18999,IND_state_18999_s063_d1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+7f463810059cdd10e500,The andaman and nicobar islands religious buildings and places regulation 1989,IND_state_18996,IND_state_18996_s013,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+04d8ea16618f71839a8b,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s001_5_d1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+e738f3f1f4b3a1202e13,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s027_p1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+b0115173286346c6f8f4,The Andaman and Nicobar Islands Prevention of Defacement of Property Regulation 1987,IND_state_19002,IND_state_19002_s002,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+27e737eb6fa91027ec85,"The Waqf Act, 1995",IND_state_19319,IND_state_19319_s099_p2,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+cffb66d7dc0f22841e52,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s023_p0,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+7b84bedff860ee2ea92e,"The inland vessels act, 1917",IND_state_19019,IND_state_19019_s19D,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+bfafe8f0b4e34430bd3c,The andaman and nicobar islands land revenue and reforms regulation 1966,IND_state_18989,IND_state_18989_s202_4,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+5e57621a66aaee7dd291,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s050_12_d1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+795b7a4342c67b184dee,"The factories act, 1948",IND_state_18999,IND_state_18999_s087_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+53f8bf9f88cc6594a031,The andaman and nicobar islands land revenue and reforms regulation 1966,IND_state_18989,IND_state_18989_s159_8_d1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+9b0bfd877208267a10ca,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s056_p1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+4888bd3bb80017c97ce5,The andaman and nicobar islands entertainment tax regulation 1951,IND_state_18983,IND_state_18983_b000_3_d5,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+3199e545dad680c58160,"The andaman and nicobar islands excise regulati0n, 2012",IND_state_18984,IND_state_18984_s030,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+6746ec6c1df02996ed8c,"The Waqf Act, 1995",IND_state_19319,IND_state_19319_s004_p0_d1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+0cead67db7bc3eaf3a28,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s003_p4,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+5794aa4cf8a74d43fdfe,"The inland vessels act, 1917",IND_state_19019,IND_state_19019_s042,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+46c96a0a74c16eb21728,"The Waqf Act, 1995",IND_state_19319,IND_state_19319_s004_p2,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+89ea24586332734da1fa,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s038_p1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+0439c4cebd08761330d2,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s044,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+07b58304fb30be7ea0f4,"The real estate (regulation and development) act, 2016",IND_state_19012,IND_state_19012_s027_p0,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+194dcb453e8b1b43f97b,The andaman and nicobar islands land revenue and reforms regulation 1966,IND_state_18989,IND_state_18989_s002_17,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+169a550454799ce2fd51,The andaman and nicobar islands land improvement scheme regulation 1963,IND_state_18988,IND_state_18988_s012_p3,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+3dd4a981f00c2c4a1da8,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s076_10,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+16b890c93e227f949ffa,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s096_p7,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+f0cd6e9218634673b8c4,"The Prison Act, 1894",IND_state_20557,IND_state_20557_s045_5,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+8a8f2afd103b19f6968a,"The mimimum wates act, 1948",IND_state_19025,IND_state_19025_s011_2,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+1c52b78d937a868600f5,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s168_3,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+67f256ef53202c5fd09b,The Andaman and Nicobar Islands Panchayats Regulation 1994,IND_state_19001,IND_state_19001_s001_p1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+78be308244bf73fb1ab3,"The real estate (regulation and development) act, 2016",IND_state_19012,IND_state_19012_s065,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+c5c5556528af36461d91,"The plantations labour act, 1951",IND_state_19011,IND_state_19011_s043_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+89f7549c3451331ee23a,"The factories act, 1948",IND_state_18999,IND_state_18999_s037_3,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+debc05b95e53710b0cf5,The Andaman and Nicobar Islands Municipal Regulation 1994,IND_state_19000,IND_state_19000_s016_9_d1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+5c8cacfb7f55f626231f,"The Prison Act, 1894",IND_state_20557,IND_state_20557_s034,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+89cf65d1edb33121f52e,"The inland vessels act, 1917",IND_state_19019,IND_state_19019_s049,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+de76324069c6bccc4d6f,The andaman and nicobar islands land revenue and reforms regulation 1966,IND_state_18989,IND_state_18989_s096,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+57e07666aae03ae174c5,"The rights of persons with disabilities act, 2016",IND_state_19015,IND_state_19015_s031,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+2386a05dca37dcc21807,The andaman and nicobar islands land revenue and reforms regulation 1966,IND_state_18989,IND_state_18989_s201_p2,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+bb8e768568fe81818bd3,"The rights of persons with disabilities act, 2016",IND_state_19015,IND_state_19015_s001_p3,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+157664a399e4cfcf6d87,"The Mines and Minerals (Development and Reguation), Act, 1957",IND_state_20096,IND_state_20096_s022,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+dafb843326473ace71e0,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s001_2_d3,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+af3b2746b1c26065f6e8,"The inland vessels act, 1917",IND_state_19019,IND_state_19019_s19P,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+dac588eee005816cbf5a,The Andaman and Nicobar Islands Municipal Regulation 1994,IND_state_19000,IND_state_19000_s071_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+a5c1a333ef45b19ff538,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s025_3,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+a43723ae6df395f2adc8,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s058_p0,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+f196e600f9f2237964cf,The constitution of india,IND_state_19150,IND_state_19150_s013_2_d17,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+145fdfa4aa3a9e6a7856,"The motor transport workers act, 1961",IND_state_19026,IND_state_19026_s017,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+cd7cbe043581c6d173fb,"The rights of persons with disabilities act, 2016",IND_state_19015,IND_state_19015_s011,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+d1b27b07b70382993c51,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s030_3,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+91dc4f1bea29cd731470,"The Indian Port Act, 1908",IND_state_19314,IND_state_19314_b000_p62,True,not_reviewed,quarantined,encoding_corruption,Basic record validation failed.
+c20b0b545854749cda95,"The rights of persons with disabilities act, 2016",IND_state_19015,IND_state_19015_s003_d1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+d3b0da27d6c6e1f2de50,The Andaman and Nicobar Islands Municipal Regulation 1994,IND_state_19000,IND_state_19000_s124_p0,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+e8270164d82ea9e64a3e,The Andaman and Nicobar Islands Panchayats Regulation 1994,IND_state_19001,IND_state_19001_s180_p1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+1b9c68fd2c1a34b5efbf,"The andaman and nicobar islands excise regulati0n, 2012",IND_state_18984,IND_state_18984_s035,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+cac272504f2949226563,The Andaman and Nicobar Islands Panchayats Regulation 1994,IND_state_19001,IND_state_19001_s012_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+81c93a0f98375cee573c,"The factories act, 1948",IND_state_18999,IND_state_18999_s41C_d1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+4c2f8f64317f2da60f6e,"The Waqf Act, 1995",IND_state_19319,IND_state_19319_s050,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+267a97e5302deb4e999c,"The ANDAMAN & NICOBAR ISLANDS TOWN &COUNTRY PLANNING REGULATION,1994",IND_state_19003,IND_state_19003_s019_p0,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+afbe4c6f32a05e981134,The andaman and nicobar islands land revenue and reforms regulation 1966,IND_state_18989,IND_state_18989_s070_6,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+df9f82c5c7a8b8610a27,The Andaman and Nicobar Islands Municipal Regulation 1994,IND_state_19000,IND_state_19000_s019_0,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+f1d9976859603b9e22b1,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s164_p1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+d2cccfb27acd1fa8a0de,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s076_13_d2,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+5e79cd0d622b2a64626a,"The factories act, 1948",IND_state_18999,IND_state_18999_s41B_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+005c9ee0f5d2e1cbe7ce,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s001_2_d4,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+3d18ffa02b16261362d0,"The Air ( Prevention and Control of Pollution) Act, 1981",IND_state_18981,IND_state_18981_s021_p1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+11cee9f92dd7f8d072a0,"The Air ( Prevention and Control of Pollution) Act, 1981",IND_state_18981,IND_state_18981_s018_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+97e8bb207676aad6b2f0,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s49C_5,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+3554b47613592e074575,"The real estate (regulation and development) act, 2016",IND_state_19012,IND_state_19012_s074,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+ccdfd77307fcc1d6def6,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s075_d1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+0c86a1cd77030e1b7b5b,"The Andaman and Nicobar Islands Marine Fishing Regulation, 2003",IND_state_18993,IND_state_18993_s023_2,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+a6d0ad958b3cc9309f47,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s021_d2,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+70d0cc1ad0711a972074,"The factories act, 1948",IND_state_18999,IND_state_18999_s87A_2,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+620f87e1c07efb2df907,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s145_f,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+1f99d9250866dfdaae66,The Andaman and Nicobar Islands Panchayats Regulation 1994,IND_state_19001,IND_state_19001_s047_4,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+4c401bdc0d217f7b61f5,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s005_d3,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+d6669ce382eff133dbd6,The Andaman and Nicobar Islands Prevention of Defacement of Property Regulation 1987,IND_state_19002,IND_state_19002_s004,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+53c0d9d8c5f9f9820fbf,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s038_3,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+1626fa2fdcbddf2a75a8,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s002_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+f6b463f1455b794af89c,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s047_4,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+9624d98d7c91b627ae40,"The rights of persons with disabilities act, 2016",IND_state_19015,IND_state_19015_s051_p1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+af493f908f166b091326,The andaman and nicobar islands land revenue and reforms regulation 1966,IND_state_18989,IND_state_18989_s202_7,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+80a2c01f349679b84a80,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s38H_4,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+311722018b7e50249936,The Andaman and Nicobar Islands Panchayats Regulation 1994,IND_state_19001,IND_state_19001_s021_p0,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+e854eba07c1b32f52ea0,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s002_28,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+e422efd98472cc10ff6f,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s019_p1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+3171615d2911bc8c8960,"The Mines and Minerals (Development and Reguation), Act, 1957",IND_state_20096,IND_state_20096_s018_p1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+88dae3bc200331a8c86e,The andaman and nicobar islands land revenue and reforms regulation 1966,IND_state_18989,IND_state_18989_s076,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+f0c5b03e7a49a4be37da,The andaman and nicobar islands land improvement scheme regulation 1963,IND_state_18988,IND_state_18988_s006,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+1571e46864105bf470d2,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s38B_6,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+313ccceffc39caaecfa1,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s002_32,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+253aab3d668e482f2d52,"The real estate (regulation and development) act, 2016",IND_state_19012,IND_state_19012_s075,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+83ff4ad048865b348ba2,"The Indian Port Act, 1908",IND_state_19314,IND_state_19314_b000_p38,True,not_reviewed,quarantined,encoding_corruption,Basic record validation failed.
+b2d2f85b6f0041019d97,The Andaman and Nicobar Islands Municipal Regulation 1994,IND_state_19000,IND_state_19000_s002_12,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+b69192bd11c328e1d056,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s58X,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+c2840a72a70258dbd59d,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s079_2,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+b287b7a3dfd17f6e2992,The Andaman and Nicobar Islands Municipal Regulation 1994,IND_state_19000,IND_state_19000_s101_2_d1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+1c1df4843d07aa406151,The andaman and nicobar islands land improvement scheme regulation 1963,IND_state_18988,IND_state_18988_s012_p2,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+58ece8504045e91be446,The andaman and nicobar islands land revenue and reforms regulation 1966,IND_state_18989,IND_state_18989_s159_6,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+da9841f7746fd25bea0d,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s175,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+fad23309093c12bac888,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s100_2,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+1ad7456feb0701f18cc0,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s178_3,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+281526680f8718846cc6,The Andaman and Nicobar Islands Panchayats Regulation 1994,IND_state_19001,IND_state_19001_s014,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+72737740fc94ba0646c4,"The mimimum wates act, 1948",IND_state_19025,IND_state_19025_s22C,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+33be5d3d672a59e07dbb,"The rights of persons with disabilities act, 2016",IND_state_19015,IND_state_19015_s071_p0,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+0180524da7cbb670128d,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s087_p1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+709872eb2be55e874795,"The real estate (regulation and development) act, 2016",IND_state_19012,IND_state_19012_s022,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+4d8f50c37c3b828906ee,The Child Labour (Prohibition and Regulation) Act 1986,IND_state_19316,IND_state_19316_b000_2_d2,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+3f284be49b3b390fbbd3,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s161_4,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+fdcc200faac0b1cd5699,The Andaman and Nicobar Islands Municipal Regulation 1994,IND_state_19000,IND_state_19000_s038_2_d2,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+faec110052b0e5c306c0,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s001_5_d2,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+cd00ae0d4d8f7a40964d,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s166_p0,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+cee2fdfe8e3f06781509,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s060_5_d1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+178d951edc7e67ddaf48,"The plantations labour act, 1951",IND_state_19011,IND_state_19011_s007,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+90e88b7a4b5228898cf7,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s050_3,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+0c4a7987ba3743b27d86,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s049_7,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+510bdc9b8679c2bf07df,"The andaman and nicobar islands excise regulati0n, 2012",IND_state_18984,IND_state_18984_s065_2,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+c25a465cbadcb48a7999,"The inland vessels act, 1917",IND_state_19019,IND_state_19019_s032,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+2ec63b9c2bee755c9910,"The Indian Port Act, 1908",IND_state_19314,IND_state_19314_b000_p66,True,not_reviewed,quarantined,encoding_corruption,Basic record validation failed.
+0542cbb55aebf47ae1b8,"The Waqf Act, 1995",IND_state_19319,IND_state_19319_s033_p1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+aceb4990a32eb2d84740,"The Waqf Act, 1995",IND_state_19319,IND_state_19319_s006_p1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+6ba5c2b3f0b5007d031f,"The Andaman and Nicobar Islands Marine Fishing Regulation, 2003",IND_state_18993,IND_state_18993_s023_p0,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+98822e59893171f94590,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s033,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+73f4042ae1e426b66863,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s087_2_d1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+143ed1c893e5bd7e09b3,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s150_4,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+5f0e239ae6128125a34d,"The mimimum wates act, 1948",IND_state_19025,IND_state_19025_s002_ii_d1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+02ca6617571f43576894,The constitution of india,IND_state_19151,IND_state_19151_s001_3_d8,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+4224d7fc827a470d33bc,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s078_2,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+bed65db9263f5a8caac1,The Andaman and Nicobar Islands Municipal Regulation 1994,IND_state_19000,IND_state_19000_s024_3_d6,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+96bf1f7888259ad0af63,The Andaman and Nicobar Islands Panchayats Regulation 1994,IND_state_19001,IND_state_19001_s132_p1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+ca80f7262876c7e8c519,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s49C_4,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+1d9476487d514c36b192,The Indian Forest Act 1927,IND_state_19313,IND_state_19313_s008,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+d696bf89005a942d2d5b,"The Air ( Prevention and Control of Pollution) Act, 1981",IND_state_18981,IND_state_18981_s021_p3,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+1f4043768de0c29f0155,"The regiatrstion act, 1908",IND_state_19013,IND_state_19013_s002,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+bc6b7d986f20a33a3960,"The Air ( Prevention and Control of Pollution) Act, 1981",IND_state_18981,IND_state_18981_s020,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+626c7a9317bf1bd0fb59,"The Waqf Act, 1995",IND_state_19319,IND_state_19319_s014_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+cc9cd518077402fc0f1b,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s041_7,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+a4fc3bfcf2235d99bedd,"The Air ( Prevention and Control of Pollution) Act, 1981",IND_state_18981,IND_state_18981_s39D_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+c78342bf2de2d0649951,The andaman and nicobar islands land revenue and reforms regulation 1966,IND_state_18989,IND_state_18989_s156_5,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+3aee31a71dc82959e0eb,"The regiatrstion act, 1908",IND_state_19013,IND_state_19013_s071,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+ab1f264316085e22cea8,"The Prison Act, 1894",IND_state_20557,IND_state_20557_s031,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+dd9eb5aa0730f9ad02ec,"The mimimum wates act, 1948",IND_state_19025,IND_state_19025_s008,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+e492ed160caefd318d92,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s048_4,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+86febee586b46a5e2dd0,"The mimimum wates act, 1948",IND_state_19025,IND_state_19025_s002_i,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+6b92fc4c5c91f5f85499,The constitution of india,IND_state_19150,IND_state_19150_s013_2_d13,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+ff637ba95b279ff28e19,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s101,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+c0d05e62895fd03cfa46,"The real estate (regulation and development) act, 2016",IND_state_19012,IND_state_19012_s018_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+8650841f15b1d963e996,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s015_p0,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+0f8b785237897e71a5e3,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s047_p2,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+34fe9db6b880b9c63fc5,"The factories act, 1948",IND_state_18999,IND_state_18999_s093_9,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+df631ff14c5194439b08,The constitution of india,IND_state_19151,IND_state_19151_s013_6_d1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+1e7fccf72c652ed7b156,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s076_11_d2,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+b43f6f0b3f174540b936,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s042_p3,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+b9ebf9b1a1bb021ebc66,The Andaman and Nicobar Islands Municipal Regulation 1994,IND_state_19000,IND_state_19000_s009_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+a4371aa22aadd51a7eaa,The constitution of india,IND_state_19151,IND_state_19151_s001_10_d2,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+2833ac7d8fbcb5043b76,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s004_d1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+10cfebceb0be8a1a553b,The Andaman and Nicobar Islands Panchayats Regulation 1994,IND_state_19001,IND_state_19001_s082_2_d6,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+d58e628c22bc985efaf5,"The Waqf Act, 1995",IND_state_19319,IND_state_19319_s045_p1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+b25507701759444b4ea8,The andaman and nicobar islands land revenue and reforms regulation 1966,IND_state_18989,IND_state_18989_s066,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+d6d0ef5bcf05e0b8c540,The andaman and nicobar islands land revenue and reforms regulation 1966,IND_state_18989,IND_state_18989_s021,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+44572a67950d84ed7fec,"The Prison Act, 1894",IND_state_20557,IND_state_20557_s059_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+4789c5325a9dd63479f5,"The mimimum wates act, 1948",IND_state_19025,IND_state_19025_s020_2_d1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+08801d2594501abc58d3,"The motor transport workers act, 1961",IND_state_19026,IND_state_19026_s009,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+06bc68c0c717d51ca680,The Andaman and Nicobar Islands Panchayats Regulation 1994,IND_state_19001,IND_state_19001_s015_p4,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+8c5c6e0db20b2790e006,"The andaman and nicobar islands excise regulati0n, 2012",IND_state_18984,IND_state_18984_s052,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+62b5a2330254b08064c1,"The factories act, 1948",IND_state_18999,IND_state_18999_s104,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+3e3aa1664f5518bef61f,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s095_p0,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+34cc23c7fc67ec876ad1,"The mimimum wates act, 1948",IND_state_19025,IND_state_19025_s017_2,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+a7a56732374e70277e45,The Andaman and Nicobar Islands Cooperative Socities Regulation 1973,IND_state_18982,IND_state_18982_s010,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+ddd6dcedfaf4af031fed,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s214_2,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+23d879913d15b043f6c4,"The plantations labour act, 1951",IND_state_19011,IND_state_19011_s18A_p0,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+fda0257f2b28634065f8,"The inland vessels act, 1917",IND_state_19019,IND_state_19019_s056,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+badcb7e64c5244b26993,"The factories act, 1948",IND_state_18999,IND_state_18999_s07A_3,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+bf130490246b1209fae7,"The payment of wages act, 1936",IND_state_19010,IND_state_19010_s020_p1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+347d6cce8763892cdd29,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s002_a,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+d4ca441f4c93710d1709,The constitution of india,IND_state_19150,IND_state_19150_s013_2_d4,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+110cba7d95a4343d5121,"The factories act, 1948",IND_state_18999,IND_state_18999_s087_p1,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+d22d895dfe24840540ad,"The Motor Vehicle Act, 1939",IND_state_19318,IND_state_19318_s003_28,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+f0561645d62ce7dd041d,"The Wildlife (Protection) Act, 1972",IND_state_19320,IND_state_19320_s002_d1,False,not_reviewed,eligible_after_automated_checks,,No audit flags detected. This is not legal source verification.
+8de164ff5f0039488590,"The factories act, 1948",IND_state_18999,IND_state_18999_s061_p0,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+9e2fd6780d0735b0a045,The andaman and nicobar islands public gambling regulation 1951,IND_state_18994,IND_state_18994_s005_p3,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.
+94fe3b57aa518bcb3cc1,"The andaman and nicobar islands excise regulati0n, 2012",IND_state_18984,IND_state_18984_s085,True,not_reviewed,quarantined,,Review status is 'not_reviewed'.

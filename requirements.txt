@@ -1,0 +1,10 @@
+
+numpy
+faiss-cpu
+sentence-transformers
+torch
+datasets
+streamlit
+huggingface-hub
+pandas
+ollama

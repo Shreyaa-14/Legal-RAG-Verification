@@ -1,0 +1,17 @@
+============================================================
+INDIAN LEGAL DATASET VALIDATION REPORT
+============================================================
+Validation status: PASS
+Processed records: 500
+Approved records: 259
+Quarantined records: 241
+Errors: 0
+Warnings: 0
+
+Note: Technical validation does not prove legal correctness.
+
+ERRORS:
+None
+
+WARNINGS:
+None

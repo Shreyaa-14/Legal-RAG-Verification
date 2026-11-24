@@ -1,0 +1,10 @@
+{
+    "total_records": 500,
+    "approved_records": 259,
+    "quarantined_records": 241,
+    "decision_counts": {
+        "eligible_after_automated_checks": 259,
+        "quarantined": 241
+    },
+    "approval_note": "Eligible records have passed automated checks or the configured manual-review requirements. This does not certify legal correctness."
+}

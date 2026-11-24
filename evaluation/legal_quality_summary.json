@@ -1,0 +1,26 @@
+{
+    "total_records": 500,
+    "records_flagged": 241,
+    "records_without_detected_issues": 259,
+    "severity_counts": {
+        "low": 76,
+        "high": 20,
+        "medium": 145
+    },
+    "issue_counts": {
+        "missing_metadata_chapter": 85,
+        "missing_metadata_year": 21,
+        "missing_metadata_section_number": 20,
+        "encoding_corruption": 14,
+        "requires_legal_source_verification": 161,
+        "possible_ocr_or_text_corruption": 149,
+        "markdown_code_fence": 29,
+        "repeated_punctuation": 8,
+        "html_break_tag": 6,
+        "possible_html_artifact": 15,
+        "repeated_pipe_characters": 5,
+        "escaped_whitespace_sequence": 4,
+        "possible_duplicate_text": 6
+    },
+    "audit_note": "Automated checks identify potential data-quality issues. They do not establish legal correctness or source authenticity."
+}

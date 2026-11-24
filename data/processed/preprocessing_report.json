@@ -1,0 +1,39 @@
+{
+    "input_file": "D:\\Legal-RAG-Verification-main\\Legal-RAG-Verification-main\\data\\raw\\legal_sample.jsonl",
+    "output_file": "D:\\Legal-RAG-Verification-main\\Legal-RAG-Verification-main\\data\\processed\\legal_cleaned.jsonl",
+    "total_records_examined": 500,
+    "records_saved": 500,
+    "records_skipped": 0,
+    "metadata_field_presence": {
+        "act_id": 500,
+        "chunk_id": 500,
+        "title": 500,
+        "chapter": 415,
+        "section_number": 480,
+        "section_title": 500,
+        "jurisdiction": 500,
+        "state": 500,
+        "instrument_type": 500,
+        "act_status": 500,
+        "in_force": 500,
+        "doc_type": 500,
+        "provision_type": 500,
+        "section_type": 500,
+        "legal_subject": 500,
+        "has_proviso": 500,
+        "has_non_obstante": 500,
+        "acts_referenced": 500,
+        "defined_terms": 500,
+        "amendment_count": 500,
+        "year": 479,
+        "source_url": 500,
+        "language_code": 500,
+        "source_publisher": 500,
+        "mirror_url": 500,
+        "delegation_type": 65
+    },
+    "transformation_counts": {
+        "normalized_horizontal_whitespace": 9
+    },
+    "status": "completed"
+}
